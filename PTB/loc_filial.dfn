@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Fontes\FNTS_Pdv_Nfce\loc_filial.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Fontes\FNTS_Pdv_Nfce\loc_filial.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43768.9618518519</prop>
+        <prop prop-type="OrigDateTime">42707.7679861111</prop>
+        <prop prop-type="XlatDateTime">42707.7679861111</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">47</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmloc_filial.Left" resname="O:frmloc_filial.Left">
+        <source>421</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.Top" resname="O:frmloc_filial.Top">
+        <source>306</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.BorderStyle" resname="O:frmloc_filial.BorderStyle">
+        <source>bsToolWindow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.Caption" resname="O:frmloc_filial.Caption">
+        <source>'Localizar Filial'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.ClientHeight" resname="O:frmloc_filial.ClientHeight">
+        <source>277</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.ClientWidth" resname="O:frmloc_filial.ClientWidth">
+        <source>353</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.Color" resname="O:frmloc_filial.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.Font.Charset" resname="O:frmloc_filial.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.Font.Color" resname="O:frmloc_filial.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.Font.Height" resname="O:frmloc_filial.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.Font.Name" resname="O:frmloc_filial.Font.Name">
+        <source>'Verdana'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.Font.Style" resname="O:frmloc_filial.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.OldCreateOrder" resname="O:frmloc_filial.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.Position" resname="O:frmloc_filial.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.OnClose" resname="O:frmloc_filial.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.PixelsPerInch" resname="O:frmloc_filial.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.TextHeight" resname="O:frmloc_filial.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618554977</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">Tfrmloc_filial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.Left" resname="O:frmloc_filial.O:dbgrid1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.Top" resname="O:frmloc_filial.O:dbgrid1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.Width" resname="O:frmloc_filial.O:dbgrid1.Width">
+        <source>353</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.Height" resname="O:frmloc_filial.O:dbgrid1.Height">
+        <source>277</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.Selected.Strings[0]" resname="O:frmloc_filial.O:dbgrid1.Selected.Strings[0]">
+        <source>'CODIGO'#9'7'#9'Código'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.Selected.Strings[1]" resname="O:frmloc_filial.O:dbgrid1.Selected.Strings[1]">
+        <source>'FILIAL'#9'37'#9'Nome da Empresa'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.IniAttributes.Delimiter" resname="O:frmloc_filial.O:dbgrid1.IniAttributes.Delimiter">
+        <source>';;'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.IniAttributes.UnicodeIniFile" resname="O:frmloc_filial.O:dbgrid1.IniAttributes.UnicodeIniFile">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TitleColor" resname="O:frmloc_filial.O:dbgrid1.TitleColor">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.FixedCols" resname="O:frmloc_filial.O:dbgrid1.FixedCols">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.ShowHorzScrollBar" resname="O:frmloc_filial.O:dbgrid1.ShowHorzScrollBar">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.Align" resname="O:frmloc_filial.O:dbgrid1.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.DataSource" resname="O:frmloc_filial.O:dbgrid1.DataSource">
+        <source>dsfilial</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.Options" resname="O:frmloc_filial.O:dbgrid1.Options">
+        <source>[dgTitles, dgIndicator, dgColumnResize, dgColLines, dgRowLines, dgTabs, dgAlwaysShowSelection, dgConfirmDelete, dgCancelOnExit, dgWordWrap]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TabOrder" resname="O:frmloc_filial.O:dbgrid1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TitleAlignment" resname="O:frmloc_filial.O:dbgrid1.TitleAlignment">
+        <source>taLeftJustify</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TitleFont.Charset" resname="O:frmloc_filial.O:dbgrid1.TitleFont.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TitleFont.Color" resname="O:frmloc_filial.O:dbgrid1.TitleFont.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TitleFont.Height" resname="O:frmloc_filial.O:dbgrid1.TitleFont.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TitleFont.Name" resname="O:frmloc_filial.O:dbgrid1.TitleFont.Name">
+        <source>'Verdana'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TitleFont.Style" resname="O:frmloc_filial.O:dbgrid1.TitleFont.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TitleLines" resname="O:frmloc_filial.O:dbgrid1.TitleLines">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.TitleButtons" resname="O:frmloc_filial.O:dbgrid1.TitleButtons">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.OnDblClick" resname="O:frmloc_filial.O:dbgrid1.OnDblClick">
+        <source>DBGrid1DblClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.OnKeyPress" resname="O:frmloc_filial.O:dbgrid1.OnKeyPress">
+        <source>DBGrid1KeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.PaintOptions.AlternatingRowColor" resname="O:frmloc_filial.O:dbgrid1.PaintOptions.AlternatingRowColor">
+        <source>16316664</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dbgrid1.PaintOptions.ActiveRecordColor" resname="O:frmloc_filial.O:dbgrid1.PaintOptions.ActiveRecordColor">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dsfilial.DataSet" resname="O:frmloc_filial.O:dsfilial.DataSet">
+        <source>frmModulo.qrfilial</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dsfilial.Left" resname="O:frmloc_filial.O:dsfilial.Left">
+        <source>216</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmloc_filial.O:dsfilial.Top" resname="O:frmloc_filial.O:dsfilial.Top">
+        <source>144</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618555093</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

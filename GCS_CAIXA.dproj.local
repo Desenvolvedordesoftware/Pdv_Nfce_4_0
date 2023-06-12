@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/07 17:21:07.000.378,=C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2020/04/07 17:24:50.000.996,C:\Fontes\FNTS_Pdv_Nfce\Unit1.dfm=C:\Fontes\FNTS_Pdv_Nfce\Justifica_Canc_Cupom.dfm</Transaction>
+    <Transaction>2020/04/07 17:24:50.000.996,C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas=C:\Fontes\FNTS_Pdv_Nfce\Justifica_Canc_Cupom.pas</Transaction>
+    <Transaction>2020/06/03 00:00:49.000.345,=C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2020/06/03 00:11:47.000.977,C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas=C:\Fontes\FNTS_Pdv_Nfce\caixa_pausa.pas</Transaction>
+    <Transaction>2020/06/03 00:11:47.000.977,C:\Fontes\FNTS_Pdv_Nfce\Unit1.dfm=C:\Fontes\FNTS_Pdv_Nfce\caixa_pausa.dfm</Transaction>
+    <Transaction>2020/06/25 07:18:37.000.682,C:\Fontes\FNTS_Pdv_Nfce\splashpdv.pas=</Transaction>
+    <Transaction>2020/07/03 18:54:57.000.074,C:\Fontes\FNTS_Pdv_Nfce\splash_venda.pas=</Transaction>
+    <Transaction>2020/09/17 13:29:21.000.570,=C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2020/09/17 13:55:20.000.177,C:\Fontes\FNTS_Pdv_Nfce\GCSenha_Suporte.pas=C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2020/09/17 13:55:20.000.177,C:\Fontes\FNTS_Pdv_Nfce\GCSenha_Suporte.dfm=C:\Fontes\FNTS_Pdv_Nfce\Unit1.dfm</Transaction>
+    <Transaction>2020/12/09 15:38:22.000.377,C:\Fontes\FNTS_Pdv_Nfce\GCSenha_Suporte.pas=</Transaction>
+    <Transaction>2020/12/09 16:25:15.000.162,=C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2020/12/09 16:33:10.000.787,C:\Fontes\FNTS_Pdv_Nfce\Unit1.dfm=C:\Fontes\FNTS_Pdv_Nfce\Senha_ADM.dfm</Transaction>
+    <Transaction>2020/12/09 16:33:10.000.787,C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas=C:\Fontes\FNTS_Pdv_Nfce\Senha_ADM.pas</Transaction>
+    <Transaction>2021/08/12 19:12:43.000.522,=C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2021/08/12 19:27:45.000.525,C:\Fontes\FNTS_Pdv_Nfce\Bloqueio_estoque.dfm=C:\Fontes\FNTS_Pdv_Nfce\Unit1.dfm</Transaction>
+    <Transaction>2021/08/12 19:27:45.000.525,C:\Fontes\FNTS_Pdv_Nfce\Bloqueio_estoque.pas=C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2021/10/09 23:32:18.000.382,=C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2021/10/09 23:34:42.000.222,C:\Fontes\FNTS_Pdv_Nfce\Unit1.dfm=C:\Fontes\FNTS_Pdv_Nfce\StatusNFC.dfm</Transaction>
+    <Transaction>2021/10/09 23:34:42.000.222,C:\Fontes\FNTS_Pdv_Nfce\Unit1.pas=C:\Fontes\FNTS_Pdv_Nfce\StatusNFC.pas</Transaction>
+    <Transaction>2022/03/31 15:51:13.000.000,=C:\Fontes\FNTS_Pdv_Nfce\splash_venda.pas</Transaction>
+  </Transactions>
+</BorlandProject>

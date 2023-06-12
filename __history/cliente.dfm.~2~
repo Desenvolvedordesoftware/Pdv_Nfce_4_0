@@ -1,0 +1,41 @@
+inherited frmConsumidor1: TfrmConsumidor1
+  Caption = 'frmConsumidor1'
+  ClientHeight = 554
+  ClientWidth = 741
+  ExplicitWidth = 741
+  ExplicitHeight = 554
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited Panel1: TPanel
+    Width = 741
+    Height = 554
+    inherited Panel2: TPanel
+      Width = 737
+      Height = 550
+      inherited pn_consumidor: TFlatPanel
+        Width = 733
+        Height = 546
+        ExplicitWidth = 817
+        ExplicitHeight = 546
+        inherited FlatPanel3: TFlatPanel
+          Top = 472
+          Width = 731
+        end
+        inherited pn_veiculo: TFlatPanel
+          Left = 805
+          Top = 271
+          ExplicitLeft = 805
+          ExplicitTop = 271
+          inherited RzLabel17: TRzLabel
+            Left = 12
+            ExplicitLeft = 12
+          end
+        end
+      end
+    end
+  end
+  inherited pop_consumid: TAdvPopupMenu
+    Left = 616
+    Top = 408
+  end
+end

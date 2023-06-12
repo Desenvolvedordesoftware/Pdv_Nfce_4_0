@@ -1,0 +1,24 @@
+unit Justifica_Canc_Cupom;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type
+  TfrmJustifica_Canc_cupom = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmJustifica_Canc_cupom: TfrmJustifica_Canc_cupom;
+
+implementation
+
+{$R *.dfm}
+
+end.

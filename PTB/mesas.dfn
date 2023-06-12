@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Fontes\FNTS_Pdv_Nfce\mesas.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Fontes\FNTS_Pdv_Nfce\mesas.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43768.9619444444</prop>
+        <prop prop-type="OrigDateTime">43000.4709027778</prop>
+        <prop prop-type="XlatDateTime">43000.4709027778</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">299</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmMesas.Left" resname="O:frmMesas.Left">
+        <source>498</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.Top" resname="O:frmMesas.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.BorderStyle" resname="O:frmMesas.BorderStyle">
+        <source>bsNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.Caption" resname="O:frmMesas.Caption">
+        <source>'Mesas'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.ClientHeight" resname="O:frmMesas.ClientHeight">
+        <source>546</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.ClientWidth" resname="O:frmMesas.ClientWidth">
+        <source>527</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.Color" resname="O:frmMesas.Color">
+        <source>6960384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.Font.Charset" resname="O:frmMesas.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.Font.Color" resname="O:frmMesas.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.Font.Height" resname="O:frmMesas.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.Font.Name" resname="O:frmMesas.Font.Name">
+        <source>'MS Sans Serif'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.Font.Style" resname="O:frmMesas.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.OldCreateOrder" resname="O:frmMesas.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.PopupMenu" resname="O:frmMesas.PopupMenu">
+        <source>pop_principal</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.Position" resname="O:frmMesas.Position">
+        <source>poDesktopCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.OnClose" resname="O:frmMesas.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.OnCreate" resname="O:frmMesas.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.OnShow" resname="O:frmMesas.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.PixelsPerInch" resname="O:frmMesas.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.TextHeight" resname="O:frmMesas.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TfrmMesas</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:imgFundo.Left" resname="O:frmMesas.O:imgFundo.Left">
+        <source>35</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:imgFundo.Top" resname="O:frmMesas.O:imgFundo.Top">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:imgFundo.Width" resname="O:frmMesas.O:imgFundo.Width">
+        <source>455</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:imgFundo.Height" resname="O:frmMesas.O:imgFundo.Height">
+        <source>430</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:imgFundo.Align" resname="O:frmMesas.O:imgFundo.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:imgFundo.ExplicitLeft" resname="O:frmMesas.O:imgFundo.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:imgFundo.ExplicitTop" resname="O:frmMesas.O:imgFundo.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:imgFundo.ExplicitWidth" resname="O:frmMesas.O:imgFundo.ExplicitWidth">
+        <source>790</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:imgFundo.ExplicitHeight" resname="O:frmMesas.O:imgFundo.ExplicitHeight">
+        <source>532</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Left" resname="O:frmMesas.O:lb_cliente.Left">
+        <source>672</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Top" resname="O:frmMesas.O:lb_cliente.Top">
+        <source>217</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Width" resname="O:frmMesas.O:lb_cliente.Width">
+        <source>469</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Height" resname="O:frmMesas.O:lb_cliente.Height">
+        <source>47</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Caption" resname="O:frmMesas.O:lb_cliente.Caption">
+        <source>'Mesas / Comandas - Abertas'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Font.Charset" resname="O:frmMesas.O:lb_cliente.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Font.Color" resname="O:frmMesas.O:lb_cliente.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Font.Height" resname="O:frmMesas.O:lb_cliente.Font.Height">
+        <source>-37</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Font.Name" resname="O:frmMesas.O:lb_cliente.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Font.Style" resname="O:frmMesas.O:lb_cliente.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.ParentFont" resname="O:frmMesas.O:lb_cliente.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Transparent" resname="O:frmMesas.O:lb_cliente.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.Visible" resname="O:frmMesas.O:lb_cliente.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.ShadowColor" resname="O:frmMesas.O:lb_cliente.ShadowColor">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:lb_cliente.TextStyle" resname="O:frmMesas.O:lb_cliente.TextStyle">
+        <source>tsShadow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Left" resname="O:frmMesas.O:grid_venda.Left">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Top" resname="O:frmMesas.O:grid_venda.Top">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Width" resname="O:frmMesas.O:grid_venda.Width">
+        <source>453</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Height" resname="O:frmMesas.O:grid_venda.Height">
+        <source>429</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Touch.InteractiveGestures" resname="O:frmMesas.O:grid_venda.Touch.InteractiveGestures">
+        <source>[igPan, igPressAndTap]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Touch.InteractiveGestureOptions" resname="O:frmMesas.O:grid_venda.Touch.InteractiveGestureOptions">
+        <source>[igoPanSingleFingerHorizontal, igoPanSingleFingerVertical, igoPanInertia, igoPanGutter, igoParentPassthrough]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.AppearanceOptions" resname="O:frmMesas.O:grid_venda.AppearanceOptions">
+        <source>[aoHighlightSlideCells]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.BorderStyle" resname="O:frmMesas.O:grid_venda.BorderStyle">
+        <source>bsNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Caption" resname="O:frmMesas.O:grid_venda.Caption">
+        <source>''</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Color" resname="O:frmMesas.O:grid_venda.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Font.Charset" resname="O:frmMesas.O:grid_venda.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Font.Color" resname="O:frmMesas.O:grid_venda.Font.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Font.Height" resname="O:frmMesas.O:grid_venda.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Font.Name" resname="O:frmMesas.O:grid_venda.Font.Name">
+        <source>'Courier New'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Font.Style" resname="O:frmMesas.O:grid_venda.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.HideScrollBar" resname="O:frmMesas.O:grid_venda.HideScrollBar">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.Options" resname="O:frmMesas.O:grid_venda.Options">
+        <source>[goGrid, goHeader, goSelectFullRow]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593519</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.ParentFont" resname="O:frmMesas.O:grid_venda.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.TabOrder" resname="O:frmMesas.O:grid_venda.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.TabStop" resname="O:frmMesas.O:grid_venda.TabStop">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TNextGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.DefaultValue" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.DefaultValue">
+        <source>'0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.DefaultWidth" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.DefaultWidth">
+        <source>130</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Charset" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Color" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Height" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Name" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Name">
+        <source>'Courier New'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Style" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Caption" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Caption">
+        <source>'Mesa / Comanda'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Alignment" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Alignment">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Charset" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Color" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Height" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Name" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Style" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Header.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.ParentFont" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Position" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Position">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.SortType" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.SortType">
+        <source>stNumeric</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Width" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Width">
+        <source>130</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Increment" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Increment">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Precision" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn1.Precision">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.DefaultValue" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.DefaultValue">
+        <source>'26/08/2009'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.DefaultWidth" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.DefaultWidth">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Charset" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Color" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Height" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Name" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Name">
+        <source>'Courier New'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Style" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Caption" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Caption">
+        <source>'Data'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Alignment" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Alignment">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Charset" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Color" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Height" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Name" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Style" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Header.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.ParentFont" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Position" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Position">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.SortType" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.SortType">
+        <source>stDate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.Width" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.Width">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.NoneCaption" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.NoneCaption">
+        <source>'None'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxDateColumn1.TodayCaption" resname="O:frmMesas.O:grid_venda.O:NxDateColumn1.TodayCaption">
+        <source>'Today'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TNxDateColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.DefaultWidth" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.DefaultWidth">
+        <source>98</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Charset" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Color" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Height" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Name" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Name">
+        <source>'Courier New'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Style" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Caption" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Caption">
+        <source>'Hora'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Alignment" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Alignment">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Charset" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Color" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Height" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Name" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Style" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Header.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.ParentFont" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Position" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Position">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.SortType" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.SortType">
+        <source>stAlphabetic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxTextColumn1.Width" resname="O:frmMesas.O:grid_venda.O:NxTextColumn1.Width">
+        <source>98</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TNxTextColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.DefaultValue" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.DefaultValue">
+        <source>'0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.DefaultWidth" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.DefaultWidth">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Charset" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Color" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Height" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Name" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Name">
+        <source>'Courier New'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Style" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Caption" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Caption">
+        <source>'Valor Total R$'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Alignment" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Alignment">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Charset" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Color" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Height" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Name" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Style" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Header.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.ParentFont" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Position" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Position">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.SortType" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.SortType">
+        <source>stNumeric</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Width" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Width">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.FormatMask" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.FormatMask">
+        <source>'###,###,##0.00'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Increment" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Increment">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Precision" resname="O:frmMesas.O:grid_venda.O:NxNumberColumn2.Precision">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TNxNumberColumn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Left" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Top" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Width" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Width">
+        <source>527</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Height" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Height">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Cursor" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Cursor">
+        <source>crDefault</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Charset" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Color" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Height" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Name" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Style" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Charset" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Color" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Height" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Height">
+        <source>-16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Name" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Style" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Line" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Caption.Line">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.Color" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.Color">
+        <source>6960384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ColorTo" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ColorTo">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ColorMirror" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ColorMirror">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ColorMirrorTo" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ColorMirrorTo">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.GradientType" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.GradientType">
+        <source>gtSolid</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.GradientMirrorType" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.GradientMirrorType">
+        <source>gtSolid</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.BorderColor" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.BorderColor">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.BorderWidth" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.BorderWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.Rounding" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.Rounding">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ShadowColor" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ShadowColor">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ShadowOffset" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.ShadowOffset">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.Glow" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Fill.Glow">
+        <source>gmNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Version" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Version">
+        <source>'1.1.1.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.Align" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.Align">
+        <source>alTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.TabOrder" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.ShowExpander" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.ShowExpander">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.ExpanderColor" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.ExpanderColor">
+        <source>6960384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.ExpanderDownColor" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.ExpanderDownColor">
+        <source>6960384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.ExpanderHoverColor" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.ExpanderHoverColor">
+        <source>6960384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.TMSStyle" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.TMSStyle">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.OldHeight" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.OldHeight">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Left" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Left">
+        <source>76</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Top" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Top">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Width" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Width">
+        <source>392</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Height" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Height">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Caption" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Caption">
+        <source>'Mesas / Comandas - Abertas'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Charset" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Color" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Height" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Height">
+        <source>-27</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Name" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Name">
+        <source>'Verdana'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Style" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.ParentFont" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Transparent" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:Label17.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Left" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Left">
+        <source>15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TAdvOfficeImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Top" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Top">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TAdvOfficeImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Width" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Width">
+        <source>55</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TAdvOfficeImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Height" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Height">
+        <source>69</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TAdvOfficeImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Picture.Data" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Picture.Data">
+        <source>89504E470D0A1A0A0000000D49484452000000370000003D08060000000940F1200000001974455874536F6674776172650041646F626520496D616765526561647971C9653C0000032269545874584D4C3A636F6D2E61646F62652E786D7000000000003C3F787061636B657420626567696E3D22EFBBBF222069643D2257354D304D7043656869487A7265537A4E54637A6B633964223F3E203C783A786D706D65746120786D6C6E733A783D2261646F62653A6E733A6D6574612F2220783A786D70746B3D2241646F626520584D5020436F726520352E332D633031312036362E3134353636312C20323031322F30322F30362D31343A35363A32372020202020202020223E203C7264663A52444620786D6C6E733A7264663D22687474703A2F2F7777772E77332E6F72672F313939392F30322F32322D7264662D73796E7461782D6E7323223E203C7264663A4465736372697074696F6E207264663A61626F75743D222220786D6C6E733A786D703D22687474703A2F2F6E732E61646F62652E636F6D2F7861702F312E302F2220786D6C6E733A786D704D4D3D22687474703A2F2F6E732E61646F62652E636F6D2F7861702F312E302F6D6D2F2220786D6C6E733A73745265663D22687474703A2F2F6E732E61646F62652E636F6D2F7861702F312E302F73547970652F5265736F75726365526566232220786D703A43726561746F72546F6F6C3D2241646F62652050686F746F73686F7020435336202857696E646F7773292220786D704D4D3A496E7374616E636549443D22786D702E6969643A33424136373037303139464631314535384335354331323431334338333337382220786D704D4D3A446F63756D656E7449443D22786D702E6469643A3342413637303731313946463131453538433535433132343133433833333738223E203C786D704D4D3A4465726976656446726F6D2073745265663A696E7374616E636549443D22786D702E6969643A3342413637303645313946463131453538433535433132343133433833333738222073745265663A646F63756D656E7449443D22786D702E6469643A3342413637303646313946463131453538433535433132343133433833333738222F3E203C2F7264663A4465736372697074696F6E3E203C2F7264663A5244463E203C2F783A786D706D6574613E203C3F787061636B657420656E643D2272223F3E889D2817000012B94944415478DADC5A7B705DC579FF76F79C73DFBA7A58B26563D9E66902851468D336254D18087D0D013324ED344348A634D3CE904E27CD4CD34CFF68CB342174680BA584B613026DDA0C991468C190104C0C98A71F3836B605F825DBB2654BBA7A5DDDC7796C7FDFEE5EE95A912CD9C8FE2347B3BAE79EB3E7ECFEF6FB7DCFBD426B4D5F5BDE45CD8746936829E55194688AB436D76B4944935182CF189D34E13FEE27F89F502511D944C71749129790902B3C212E406B5552902754C6975AF8425594123A10623CABBC3EDF5707D3CA3B9CF2BCDD992038514C0514604CCFF708D748E259293D0AA4A452AD4A45A928C0D8E55A8D26C33A0921E8548747677868034C77859AAE13425E1F48F1AB9E546B0020C380D24262A244017F62720A13F195241FCBA6943213E7C979B826A43C80357CBB1227AF2522DE90D56A332DC2715AE0440314E95FC3E79D8192EBF252B530908C2729C520D04B9949A3114B8DC8977C4F199078C64825C0F7149E91002AA4B73A9162754874331AC5096DAEC4F17F05241F4D491A16671B1C3300035F106A7D774EF9BF97C7C40AA00C83F21C8DA59816AB74270C5031C5711EE0621A7D3242E3394159E5533AE551DAF7C9F37C529EA2040B3099E86BC6A3F89AB128FECB6A9CDC2385F87BED1676D1C13130ACE417409D0797057EBA1D136170D01D80D084EB14EBC47C26F8C77A9CB86713F37C4221FA13FAF8D0294809A709A41663029020DE9306A82C40FA1EE405E9C61813E0961CAD54EF3D5EAFDF01FDFE6350F9E5A9177F5070C2FDC3EADD87A9FD594F10D012287B169462500293857D81440D3A8C8B292482E1E20FD7B4C0576D5EA223343616A0B08C6223658F1707273EDEE7830509002BBC13E8204945ED814FED30325D9393971D2C575E9A88C32F81050F2C0A389E5635D1F7E7A4BA6B050F84954DB3F5C39D1860429614007946521A13631C897DD0DCB3001B948AA04C35114127B5D1453EF78C350D8D9EF275859E29B320016607289062672E4B2D42D1BB63E3F70F25B51CEE7E831640536FB64E8DC9D4B5BE2B2FE55D3DBC7A0097610BA72D0D434C80E9CA2B1F25C2289C84E0624829C6D391D3436D005A6A9BA540DF901B16A78E078250E133A26AC8E0C880E423C52E26F671419977A7C0988B7369DA3D1A7E7D208E8FE2FD8FC6E823E60397127236455B05EEDFDFE307B41CE00A8E8A4C1D96169B7B034463720E485DF0776D7CA3343A687DA10508932FEC32729F50C7583C617CA78A843548D03B5C813EA29F1F530AF435D293767E6C8D79A1072B93DFE9F0BD573ED252DC1B35E9F7ACE03AD2E993AD22004CC24A2D010D97E35E3B56CDE72982566CCDD868781213C7391B1205EDF720051FD76B6C2804038044211DF400485E88C45094C51E036488EFD03240898DB4A6AD2D4632BA8C000206278895BDEF00B6E0B31B0087AAB56F1DA9546E989796C3F5FAD4055EB4C093DD2D9EF79965AC676879B3A2D020489807D68934AB15E29CC179D20254C2D2441AE931C7C87E3A6A26E6CC5A55A6262F88C4A78A990356AA1C0C69808A3DBCDBD0561AEAB38F44A4632C7127A4792C4EAE7FE1C4E02F0624B6CDC54D03AE1C4D0B36025D0AE4DFD696F1A93395A222CC7E4AF0A0EC6C014C4B330136161C7A45005737128AB0F26E1484485A5BC3C30823C1C4B40465890AD6274CB816935934035F6B0B8C699680EA001C98D04B18AB5A571CE570348327C0A022C01695BA1DD4DF26E708C30CB842DA9FBA106A8F72525ED4A2D89705940538DF4C0E137183933118A066CC009956B1351898506C74CAA898A1017FC6899EB654467690536CC11A2A469E515AEDF49375D6674325D9BADA2847010C423BD817BBB8D615D147C286959E0B5CA2A7EFB2B22356ACE6028E3E14A503EB9BD8019BF93AFAF03311241E82A20294D4069DB052556C7494894C1498C0EAC27D7836C6C937ACB201C8B4888CA413AC449CB0CF4B0C0D430663DC8634A098FE7E225D5C6B0C566BC8EF137A6E704558C469C9694A7BEA87BE527F8EA81D11853271214D9976AB18C62AC24FC94436ECBC050CFA06AC8B9068CC0E1B52955A4C494EBB05B4AE7D5A82319B1E5E1836447826C4B81E3E7DE162D518E0949D0F5BEAD0EA7C6F46DAF7CC092EEF79274525E538FEF1914AEDC52BDBDA3F51604B1AC3AB20BA3020746C78E7B11170615422EC847D36F14C13583A8555669F48AC2722264BA4C8D02E71C685172911C2482DC642259878D28847132B3176F2CA346D0288AC4A21BD4AE8B5E1E1E8FC42EEAB97E632E6FB9CE0966732278143B845C297EBDE1C1E7AF9D757ACBC3C7DE1854493652C5568F48AEA2109B454089F548FCC6423DF729F01327DD874CBD8FA364D96929AAC1F8C9DFF638A9A0592564F1918D392C1304B389B606BCA796507DC52319DD2FBCB65F1D2D030AD6D6BBDEDC36D6D7B982DF254AEE0B7AEB8EC67EF04C1C8B181818F7DE5CD37B6FF415C5BF92BD75D4794CB11E1C534709C68A4443421294D5593CC7A8934B919D31409A9F914F8CE96D3EA9535F326C8E6E0C3A44E1CAD19591AFD644BCA3A66DC03D311CFB7A65308A8035D8AE3E495FEA3EAF5C112FDC679CBFEE486A54B9F2CC385D5E60387BC6396C052D3B28B2F2C7D4ECADFFDE2FF3EB7F9537BDEF36FFFEDDFA4D56B2F215A791ED120401ED86F80E6F51832F4BA93107CE08C88C74EDFB8712C84A530E40D9D69E86A628D9612C6FC6703A5D34A21E054C9A15A4D1D1E195507C6C6E509F88E1B57AFBCF7C6EEAE8786AA55AA27F129B371614CFB17EF98055C62F5AC6B196DD8BDE7E62F7FFF892756E2F2553DCBE9AACB2FA3AB2F389F5664B309556A50D209416363221A1BE7D088C6AA351AC1E0E3F51A4D84751A8755AD869189466A3107DD20A0B21E8E752AED9B5242956D2AA4995410768D85A118ACD783E16ACD679B11603A6B972D79FE8EB56B3F3981318E4F4E1ADA9E32AB31E0EEF9DBB97BB0256D69A1EF7FEFF1FBFFE5859FDCB51AAEA18CC10328FFD2F6A25ED5DEA62F2FB4E8767008B44CD2F0234908EF97B09B8804D73BD05F4E26B19E8C225D45705A4974CC7ACD7A8630AC8A904D21E48B26C2484E46A15789920CA42BD8807420D4CA628EB95CA174EDEAF3CE6F1534325E8F9DB75C48CA932FCC9DF318092ABAEDD65BFE74D39EDE9B0E1E1B58B5BAB500039A4058E362D3F0A878C1C5A4055FC97CE063529ECE79ECAF84B05147E20A4D6422CD3AAC403532D10D8C228024DA1A44AEB3809E45586F2E53B42290E84092CB37D774777D3E27C4C810168BA9B890D28395DCC30FCEDF7349071D79F1271FFBC2B7FE6DE372482F970A4EAAAB7014C2BE2D341106A74B7011899B82B43E52D870D38453367FB3852353A69076C2FC9DFD6A1B7CEC3224C745B6B22D6D4F2D29E66FD6009608719A99F8FE7DF3F784F158D1D5F5D22D1FBEF23F7FB0EDEDCF9E0FD32C1CB4C670928B4058AC00F152A691054C65F4D6624A13E1B3856B6402368FE32083F52F05835284B418D82A4E773299DA584BE1CE3A564C4BFF0C6A28C3A505D4F2307ABA4CB77EE892BB5E7FEFDD7523D57AB6351DB8804CBA6A89B45039846B4016D3008DE4A4950ED34FB934C733F1A32D01E6D1814B19ABF0EE4E9C1FC917FE2AE779270467C26752203A3A31B1A0CEDD18BCB367D5C8B5175FF4778FBFBDE3EE76A611A4151B5FE52C97B020858B421B200DE51C3D0D2D0D05ADB44CC90FE0B844D80A3A7607295A03A995B2D9A349367F5F1A6E265CA09EFD8CCEA9794C6AE3B8229FA3EFDC78035DD9DEA6BEF4E493870646C6BBBB72A9A998D164D0EE558D88C804CD0EA4746504DFB900269929D402540AD78AD0E5E5C81FD76633D409DA6FCD173F17FBC163595387D1A72D39034E88D35B936F5E73157D281DDCF9DD2D5BFFB505934879722A9D9932B27ABA7A26A861508409841B344CE12203E312610E60BB60A42ECA65E952001CCAE57BDFCCB4ACCD46219D8EC8B4ABD72C454879BAE0A6CAAE372DEBA48F66D307771C1DE869478423E7E83805CE584A618098E85E90AB7B323009EBE8510F82F4ABF319F2006E57EB925B27FDF4FFA49285EB1A4B97B3759ECF8BFDFD670E8EFFDDBEB4E38F3AC2F06176EA69CF1A8846A54BBAEE8DDA8870269F25C53168C06576068B0E0544424B611D7FA190A3A5B9340DA8E0BD6755FAE24E2E6B9C061D59F72F2822E0787F2FFDCDCE5D6744CB2980CB3D4F7EBAA3D8572A4FAC684124E34F59466DA8279C89178E86BE6C50928C8EB173CEE27B2B24B50634BAB290C58D146D2DB67FE6A80C1E4FC7E18227C5C1FB6A4452BDA5127DEAD91F9FF12E8F6E58F67E0489CA0BBE8E60F79FEB1CEA2BBB6F209ACCBFCDC7ACB3564D8684BFB3F4328A1DB64F3D00859B34EAA70E8CE78B8FAFE1D833D10B9E9207ABBDB250A0AFBEF2EA07DFC26A68EF501C3D82A4F1EEDE91D1D6229CACA5A470EE401BC7EE0B6B2D7DE12CA4332C6C507200B70461561BEF77E1FC50AEF04FCCA6D1EAC2A5C659C62F7777D097376CA427FA8E4C5D97F4018FF583A5C96C90FA77A61B733E99AAB3D89A8B746EC073BAC79039A9E5C661561E86A42BE59B5429F2D313E55CFE913674E4EB0B695CA8BD02A1E17AE8D943BBF69C34B73305D7E08B381E45B46DBCFCC0EA7C5E9791B020F8B7653A434FD9144B4ABB5F67069536228165E34A76A76F9D615F26F7ED50CA51CE28EA78C77CAD065568C9A468B05AA1CFFE688391E062803BE978A634DA87DCEF495B60B22503E14A81D2594E133F322C61EB21EC1A39A5292A576042543290CADD2F6A2145C8FDE66B613D32146F8321FBFDA7D673DD67F1B68D9BADE7481CEB37C6C61FBA2848DD328AD49FF7E0682ACCB2BECC4629C95438C6D7B8D8CB41321FFDD2DFD057ABEE2DC40BF76B3D8516FAEB575EA7374B23B3DE5F14C9F1B1BD527B3E9DF27B39EBB64558AE0E938BFEA5D3BD69EFC71435BBB3BC8B838EFBBCE01F35A29118349FAFD5D18FABE12F1FEEA30776EF99734E1F04DC49043F8E153F5C0F1FE6EDE09A494CDD06A47174B1DD031176E78725E89B2D6445693C7782E4E1E3423C5D8C1343A553355F93496615F4F21B6F6D3B3BBF6698494D28B3FEE944E5D18F1732F71C9BACFAAD5A9924DE8272910B97005D89CF33AE4010D74BFA83F4239DE94067A368412B7A7EBE85EEDDBE9DFAEAE1070627E6389FF93D3E9624C311A9FFABC67A5D68EA93D607D98AB39ECEEBC8462B3E567F3493A5309F7B7464748C46F5FC4EBB0D86E77BEFBF4FDFECDD7BDADBC6A2E973AE739AE5BA29250D4571F548BDFE18C2A97565488113CF1486902E5A9FFA7583B2C9AAE0927B2EF7D2D7B6EEDCFBFCB1630BA288741B9C0BEA3B0BB886EFF5ECC6B46929D7D2AE655C4B37B52C5BFC5DD5DAC6B4AFFA27E2C4EC3BF0468569DA16D313B27514DECCCC6573F4C450E93F7E0460BA69BBFA546DA1C066826B06D500C30072AE71892CCF9B9BEEBCD15A5CE37BDDFBC36864308CD773EC5833A012B285386DF604844B58798372CCF32B8F1D3EF6F41C945FB45F108919C01A12F3DD42ABA9486A7A4166A52BD675725F2DDC707526F58713A06686370D5D58C62F136E1F200D8BB769BCFCDCE6F189634DEF8FCEE0B734F382936E806006E502D7A719DCA9F4908F35BD71BCFB52AD0F2AAD57B1F4A44B813C93D729EB1DBC809E3A7AFC19BB9969A4DED8BB5E2C8062262D1B7A9675031666D030DFF499739F33DBD27A92D4FB6AF597383A81E5A4AAD93BE71F08D8988C7F6BF26EAD3EFAF4E8F8165CE974EF4ABBF1E56251743683E23906CD6648B24D926D4837D574DEB8DE7E30D15B2A88FF0626CA6627A6CEBBAAECF310E47A9365DA549E78B51EC75C53EC710B966902478B0D8ED5A2B1B314B9F34662AAE600DDAC9B8D4F6E4B07B43ED0F9898F1FEE58D543FB4AE374607094060786492345D1BF7333BD555CB2AD89059926FD5E2CC3A2BD19C098F76537007F0F9DB41A1292335A7318269B7E871A2471DC3F9CCD6FBDF3C187CEDBBFF145AA1DD84F9DDDDD145C7E251DAAD52ADBBEFBDFBD8E928DB1E3A6055D5483A29BC0250E54B9896AD9261DCBCE004AB33876BE9EDBB8FE991DB77FFE8E9BAEFFCA5F500681EE68B94C7BF7EFA35DFF70DFCE5A18F639498DA28DB9F1EA8B09D09BF9E3D7267055B489261A661CB8225A6B1350354720D03E500FFB76BCF65A69E9AAD56D854C86462726283C7490766CDDBA15F7475CDF0107AEDE343E9D0D833293A20C701C6D088DFDD12134DE35D9EBCE87DD4228A733CD013CEBD3C4F62D5B76D500AA8E3C8F5F3A78A08F36EFDDB7D9BD97DF71A2496AC9D970E2F305E2DA0D5E77D21C71933ACE51896B1D8EC68D0932E0F4E6CD9B7B4BFDFD1F4D65B3E69743BB77EE78BFA2F56BEEF9F1C5D4B1C5C8E77832353436E3FBD1D8EABD85F6AE9340C38A32B8B67DA591FEDE9D3B2B35E46DB55289B66DD9BA11D7DF71543C6BC0162313E7C94DA21D44DB84C69BACBBDD3D36402D1063F5EDAD5B0E546B35EADFB78FB6F7F6FE80CED12117F15D4CD90368CF71CDC8016683D3BEFDA73B4E8C0D1EA7F776ED3A3814453F3C57E0BCB3F04ED6B95E07F497D03EBDE7F0E1FCE17776D3F677763EBBD846E35C836B1CAC97AFF0DE66982417BFF5EA26DAD9FBEEAB742E0FADF5B918E6AAAEC07FC397F2DA9F47707C74B90CE39C1DFF2FC0003F3CB4BA81C99D320000000049454E44AE426082</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TAdvOfficeImage</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Version" resname="O:frmMesas.O:AdvSmoothExpanderPanel1.O:img_cliente.Version">
+        <source>'1.1.1.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TAdvOfficeImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel1.Left" resname="O:frmMesas.O:Panel1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel1.Top" resname="O:frmMesas.O:Panel1.Top">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel1.Width" resname="O:frmMesas.O:Panel1.Width">
+        <source>35</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel1.Height" resname="O:frmMesas.O:Panel1.Height">
+        <source>430</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel1.Align" resname="O:frmMesas.O:Panel1.Align">
+        <source>alLeft</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel1.BevelOuter" resname="O:frmMesas.O:Panel1.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel1.Color" resname="O:frmMesas.O:Panel1.Color">
+        <source>6960384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel1.ParentBackground" resname="O:frmMesas.O:Panel1.ParentBackground">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel1.TabOrder" resname="O:frmMesas.O:Panel1.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel2.Left" resname="O:frmMesas.O:Panel2.Left">
+        <source>490</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel2.Top" resname="O:frmMesas.O:Panel2.Top">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel2.Width" resname="O:frmMesas.O:Panel2.Width">
+        <source>37</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel2.Height" resname="O:frmMesas.O:Panel2.Height">
+        <source>430</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel2.Align" resname="O:frmMesas.O:Panel2.Align">
+        <source>alRight</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel2.BevelOuter" resname="O:frmMesas.O:Panel2.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel2.Color" resname="O:frmMesas.O:Panel2.Color">
+        <source>6960384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel2.ParentBackground" resname="O:frmMesas.O:Panel2.ParentBackground">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619593981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel2.TabOrder" resname="O:frmMesas.O:Panel2.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.Left" resname="O:frmMesas.O:Panel3.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.Top" resname="O:frmMesas.O:Panel3.Top">
+        <source>511</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.Width" resname="O:frmMesas.O:Panel3.Width">
+        <source>527</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.Height" resname="O:frmMesas.O:Panel3.Height">
+        <source>35</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.Align" resname="O:frmMesas.O:Panel3.Align">
+        <source>alBottom</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.BevelOuter" resname="O:frmMesas.O:Panel3.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.Color" resname="O:frmMesas.O:Panel3.Color">
+        <source>6960384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.ParentBackground" resname="O:frmMesas.O:Panel3.ParentBackground">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.TabOrder" resname="O:frmMesas.O:Panel3.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Left" resname="O:frmMesas.O:Panel3.O:RzLabel1.Left">
+        <source>35</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Top" resname="O:frmMesas.O:Panel3.O:RzLabel1.Top">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Width" resname="O:frmMesas.O:Panel3.O:RzLabel1.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Height" resname="O:frmMesas.O:Panel3.O:RzLabel1.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.AutoSize" resname="O:frmMesas.O:Panel3.O:RzLabel1.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Caption" resname="O:frmMesas.O:Panel3.O:RzLabel1.Caption">
+        <source>'F2 - Concluir'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Font.Charset" resname="O:frmMesas.O:Panel3.O:RzLabel1.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Font.Color" resname="O:frmMesas.O:Panel3.O:RzLabel1.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Font.Height" resname="O:frmMesas.O:Panel3.O:RzLabel1.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Font.Name" resname="O:frmMesas.O:Panel3.O:RzLabel1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Font.Style" resname="O:frmMesas.O:Panel3.O:RzLabel1.Font.Style">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">234</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.ParentFont" resname="O:frmMesas.O:Panel3.O:RzLabel1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">235</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.Transparent" resname="O:frmMesas.O:Panel3.O:RzLabel1.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">236</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel1.ShadowColor" resname="O:frmMesas.O:Panel3.O:RzLabel1.ShadowColor">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">237</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Left" resname="O:frmMesas.O:Panel3.O:RzLabel3.Left">
+        <source>161</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">238</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Top" resname="O:frmMesas.O:Panel3.O:RzLabel3.Top">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">239</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Width" resname="O:frmMesas.O:Panel3.O:RzLabel3.Width">
+        <source>148</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">240</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Height" resname="O:frmMesas.O:Panel3.O:RzLabel3.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">241</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.AutoSize" resname="O:frmMesas.O:Panel3.O:RzLabel3.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">242</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Caption" resname="O:frmMesas.O:Panel3.O:RzLabel3.Caption">
+        <source>'F5 - Conferência de Mesa'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">243</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Font.Charset" resname="O:frmMesas.O:Panel3.O:RzLabel3.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">244</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Font.Color" resname="O:frmMesas.O:Panel3.O:RzLabel3.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">245</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Font.Height" resname="O:frmMesas.O:Panel3.O:RzLabel3.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">246</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Font.Name" resname="O:frmMesas.O:Panel3.O:RzLabel3.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">247</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Font.Style" resname="O:frmMesas.O:Panel3.O:RzLabel3.Font.Style">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">248</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.ParentFont" resname="O:frmMesas.O:Panel3.O:RzLabel3.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">249</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.Transparent" resname="O:frmMesas.O:Panel3.O:RzLabel3.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">250</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:Panel3.O:RzLabel3.ShadowColor" resname="O:frmMesas.O:Panel3.O:RzLabel3.ShadowColor">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">251</prop><prop prop-type="Type">TRzLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.MenuStyler" resname="O:frmMesas.O:pop_principal.MenuStyler">
+        <source>frmModulo.estilo_menu</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">252</prop><prop prop-type="Type">TAdvPopupMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.Version" resname="O:frmMesas.O:pop_principal.Version">
+        <source>'2.6.1.1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">253</prop><prop prop-type="Type">TAdvPopupMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.Left" resname="O:frmMesas.O:pop_principal.Left">
+        <source>201</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">254</prop><prop prop-type="Type">TAdvPopupMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.Top" resname="O:frmMesas.O:pop_principal.Top">
+        <source>259</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">255</prop><prop prop-type="Type">TAdvPopupMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Finalizar1.Caption" resname="O:frmMesas.O:pop_principal.O:Finalizar1.Caption">
+        <source>'Concluir'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">256</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Finalizar1.ShortCut" resname="O:frmMesas.O:pop_principal.O:Finalizar1.ShortCut">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">257</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Finalizar1.OnClick" resname="O:frmMesas.O:pop_principal.O:Finalizar1.OnClick">
+        <source>Finalizar1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">258</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Cancelar1.Caption" resname="O:frmMesas.O:pop_principal.O:Cancelar1.Caption">
+        <source>'Cancelar'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">259</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Cancelar1.Enabled" resname="O:frmMesas.O:pop_principal.O:Cancelar1.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">260</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Cancelar1.ShortCut" resname="O:frmMesas.O:pop_principal.O:Cancelar1.ShortCut">
+        <source>115</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">261</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Cancelar1.OnClick" resname="O:frmMesas.O:pop_principal.O:Cancelar1.OnClick">
+        <source>Cancelar1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">262</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Imprimir1.Caption" resname="O:frmMesas.O:pop_principal.O:Imprimir1.Caption">
+        <source>'Imprimir'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">263</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Imprimir1.ShortCut" resname="O:frmMesas.O:pop_principal.O:Imprimir1.ShortCut">
+        <source>116</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">264</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Imprimir1.OnClick" resname="O:frmMesas.O:pop_principal.O:Imprimir1.OnClick">
+        <source>Imprimir1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">265</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:N2.Caption" resname="O:frmMesas.O:pop_principal.O:N2.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">266</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Retornar1.Caption" resname="O:frmMesas.O:pop_principal.O:Retornar1.Caption">
+        <source>'Retornar'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">267</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Retornar1.ShortCut" resname="O:frmMesas.O:pop_principal.O:Retornar1.ShortCut">
+        <source>27</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">268</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:pop_principal.O:Retornar1.OnClick" resname="O:frmMesas.O:pop_principal.O:Retornar1.OnClick">
+        <source>Retornar1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">269</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:tm_Atualiza.Enabled" resname="O:frmMesas.O:tm_Atualiza.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">270</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:tm_Atualiza.Interval" resname="O:frmMesas.O:tm_Atualiza.Interval">
+        <source>5000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">271</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:tm_Atualiza.OnTimer" resname="O:frmMesas.O:tm_Atualiza.OnTimer">
+        <source>tm_AtualizaTimer</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">272</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:tm_Atualiza.Left" resname="O:frmMesas.O:tm_Atualiza.Left">
+        <source>233</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">273</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:tm_Atualiza.Top" resname="O:frmMesas.O:tm_Atualiza.Top">
+        <source>259</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">274</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.Connection" resname="O:frmMesas.O:qrMesa.Connection">
+        <source>frmModulo.Conexao_Servidor</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">275</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.SQL.Strings[0]" resname="O:frmMesas.O:qrMesa.SQL.Strings[0]">
+        <source>'select '</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">276</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.SQL.Strings[1]" resname="O:frmMesas.O:qrMesa.SQL.Strings[1]">
+        <source>'  c000074.*,'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">277</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.SQL.Strings[2]" resname="O:frmMesas.O:qrMesa.SQL.Strings[2]">
+        <source>'  c000007.Nome Cliente,'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">278</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.SQL.Strings[3]" resname="O:frmMesas.O:qrMesa.SQL.Strings[3]">
+        <source>'  c000008.Nome Vendedor'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">279</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.SQL.Strings[4]" resname="O:frmMesas.O:qrMesa.SQL.Strings[4]">
+        <source>'from '</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">280</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.SQL.Strings[5]" resname="O:frmMesas.O:qrMesa.SQL.Strings[5]">
+        <source>'  c000074, c000007, c000008'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">281</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.SQL.Strings[6]" resname="O:frmMesas.O:qrMesa.SQL.Strings[6]">
+        <source>'where'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">282</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.SQL.Strings[7]" resname="O:frmMesas.O:qrMesa.SQL.Strings[7]">
+        <source>'  c000074.codcliente = c000007.codigo and'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">283</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.SQL.Strings[8]" resname="O:frmMesas.O:qrMesa.SQL.Strings[8]">
+        <source>'  c000074.codvendedor = c000008.codigo'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">284</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.Left" resname="O:frmMesas.O:qrMesa.Left">
+        <source>297</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">285</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:qrMesa.Top" resname="O:frmMesas.O:qrMesa.Top">
+        <source>259</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">286</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.Connection" resname="O:frmMesas.O:QRITEM.Connection">
+        <source>frmModulo.Conexao_Servidor</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">287</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.SQL.Strings[0]" resname="O:frmMesas.O:QRITEM.SQL.Strings[0]">
+        <source>'select '</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">288</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.SQL.Strings[1]" resname="O:frmMesas.O:QRITEM.SQL.Strings[1]">
+        <source>'  c000074.*,'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">289</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.SQL.Strings[2]" resname="O:frmMesas.O:QRITEM.SQL.Strings[2]">
+        <source>'  c000007.Nome Cliente,'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">290</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.SQL.Strings[3]" resname="O:frmMesas.O:QRITEM.SQL.Strings[3]">
+        <source>'  c000008.Nome Vendedor'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">291</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.SQL.Strings[4]" resname="O:frmMesas.O:QRITEM.SQL.Strings[4]">
+        <source>'from '</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">292</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.SQL.Strings[5]" resname="O:frmMesas.O:QRITEM.SQL.Strings[5]">
+        <source>'  c000074, c000007, c000008'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">293</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.SQL.Strings[6]" resname="O:frmMesas.O:QRITEM.SQL.Strings[6]">
+        <source>'where'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">294</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.SQL.Strings[7]" resname="O:frmMesas.O:QRITEM.SQL.Strings[7]">
+        <source>'  c000074.codcliente = c000007.codigo and'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">295</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.SQL.Strings[8]" resname="O:frmMesas.O:QRITEM.SQL.Strings[8]">
+        <source>'  c000074.codvendedor = c000008.codigo'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">296</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.Left" resname="O:frmMesas.O:QRITEM.Left">
+        <source>265</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">297</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMesas.O:QRITEM.Top" resname="O:frmMesas.O:QRITEM.Top">
+        <source>259</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9619594329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">298</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

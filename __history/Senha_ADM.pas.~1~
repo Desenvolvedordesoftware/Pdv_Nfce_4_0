@@ -1,0 +1,28 @@
+unit Senha_ADM;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, dxGDIPlusClasses,
+  Vcl.ExtCtrls;
+
+type
+  TfrmSenha_adm = class(TForm)
+    Image1: TImage;
+    EditSenha: TEdit;
+    Lbsenha: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmSenha_adm: TfrmSenha_adm;
+
+implementation
+
+{$R *.dfm}
+
+end.

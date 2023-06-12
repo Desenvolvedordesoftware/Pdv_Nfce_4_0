@@ -1,0 +1,24 @@
+unit Loc_pro_fornecedor;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type
+  TLoc_Pro_cod_original = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Loc_Pro_cod_original: TLoc_Pro_cod_original;
+
+implementation
+
+{$R *.dfm}
+
+end.

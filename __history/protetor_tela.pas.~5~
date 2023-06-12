@@ -1,0 +1,44 @@
+unit protetor_tela;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ExtCtrls, jpeg, AdvOfficeImage, StdCtrls;
+
+type
+  TfrmProtetor_tela = class(TForm)
+    Timer1: TTimer;
+    Panel1: TPanel;
+    Panel2: TPanel;
+    procedure FormKeyPress(Sender: TObject; var Key: Char);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmProtetor_tela: TfrmProtetor_tela;
+
+implementation
+
+uses modulo;
+
+{$R *.dfm}
+
+procedure TfrmProtetor_tela.FormClose(Sender: TObject;
+  var Action: TCloseAction);
+begin
+action := cafree;
+end;
+
+procedure TfrmProtetor_tela.FormKeyPress(Sender: TObject; var Key: Char);
+begin
+  if key = #27 then close
+end;
+
+end.
+
+

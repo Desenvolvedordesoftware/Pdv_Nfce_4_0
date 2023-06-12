@@ -1,0 +1,34 @@
+unit caixa_pausa;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, JvExControls, JvAnimatedImage, JvGIFCtrl,
+  Vcl.Menus, AdvMenus;
+
+type
+  Tfrmcaixapausa = class(TForm)
+    JvGIFAnimator1: TJvGIFAnimator;
+    pop_principal: TAdvPopupMenu;
+    Retornar1: TMenuItem;
+    procedure Retornar1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmcaixapausa: Tfrmcaixapausa;
+
+implementation
+
+{$R *.dfm}
+
+procedure Tfrmcaixapausa.Retornar1Click(Sender: TObject);
+begin
+close;
+end;
+
+end.

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Fontes\FNTS_Pdv_Nfce\NotaFiscal_Item_Serial.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Fontes\FNTS_Pdv_Nfce\NotaFiscal_Item_Serial.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43768.9628703704</prop>
+        <prop prop-type="OrigDateTime">42707.7678703704</prop>
+        <prop prop-type="XlatDateTime">42707.7678703704</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">57</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Left" resname="O:frmNotaFiscal_Item_Serial.Left">
+        <source>675</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Top" resname="O:frmNotaFiscal_Item_Serial.Top">
+        <source>251</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.BorderStyle" resname="O:frmNotaFiscal_Item_Serial.BorderStyle">
+        <source>bsToolWindow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Caption" resname="O:frmNotaFiscal_Item_Serial.Caption">
+        <source>' Seriais Disponíveis'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.ClientHeight" resname="O:frmNotaFiscal_Item_Serial.ClientHeight">
+        <source>323</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.ClientWidth" resname="O:frmNotaFiscal_Item_Serial.ClientWidth">
+        <source>334</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Color" resname="O:frmNotaFiscal_Item_Serial.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Font.Charset" resname="O:frmNotaFiscal_Item_Serial.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Font.Color" resname="O:frmNotaFiscal_Item_Serial.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Font.Height" resname="O:frmNotaFiscal_Item_Serial.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Font.Name" resname="O:frmNotaFiscal_Item_Serial.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Font.Style" resname="O:frmNotaFiscal_Item_Serial.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.OldCreateOrder" resname="O:frmNotaFiscal_Item_Serial.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.Position" resname="O:frmNotaFiscal_Item_Serial.Position">
+        <source>poOwnerFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.OnClose" resname="O:frmNotaFiscal_Item_Serial.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.PixelsPerInch" resname="O:frmNotaFiscal_Item_Serial.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.TextHeight" resname="O:frmNotaFiscal_Item_Serial.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmNotaFiscal_Item_Serial</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Left" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Top" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Width" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Width">
+        <source>334</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Height" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Height">
+        <source>323</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Selected.Strings[0]" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Selected.Strings[0]">
+        <source>'SERIAL'#9'30'#9'Nº de Série'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839815</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.IniAttributes.Delimiter" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.IniAttributes.Delimiter">
+        <source>';;'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.IniAttributes.UnicodeIniFile" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.IniAttributes.UnicodeIniFile">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleColor" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleColor">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.FixedCols" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.FixedCols">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.ShowHorzScrollBar" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.ShowHorzScrollBar">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.ShowVertScrollBar" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.ShowVertScrollBar">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Align" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.BorderStyle" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.BorderStyle">
+        <source>bsNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Color" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Charset" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Color" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Height" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Name" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Name">
+        <source>'Courier New'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Style" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Font.Style">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Options" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.Options">
+        <source>[dgColumnResize, dgTabs, dgRowSelect, dgAlwaysShowSelection, dgConfirmDelete, dgCancelOnExit, dgWordWrap]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.ParentFont" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628839931</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.RowHeightPercent" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.RowHeightPercent">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TabOrder" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleAlignment" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleAlignment">
+        <source>taLeftJustify</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Charset" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Color" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Height" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Name" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Style" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleFont.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleLines" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleLines">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleButtons" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.TitleButtons">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.LineColors.DataColor" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.LineColors.DataColor">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.LineColors.HighlightColor" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.LineColors.HighlightColor">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.LineColors.ShadowColor" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.LineColors.ShadowColor">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.LineColors.FixedColor" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.LineColors.FixedColor">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.OnDblClick" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.OnDblClick">
+        <source>wwDBGrid1DblClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.OnKeyPress" resname="O:frmNotaFiscal_Item_Serial.O:wwDBGrid1.OnKeyPress">
+        <source>wwDBGrid1KeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TwwDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:dserial.DataSet" resname="O:frmNotaFiscal_Item_Serial.O:dserial.DataSet">
+        <source>frmNotaFiscal_Item2.qrserial</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840046</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TUniDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:dserial.Left" resname="O:frmNotaFiscal_Item_Serial.O:dserial.Left">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TUniDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmNotaFiscal_Item_Serial.O:dserial.Top" resname="O:frmNotaFiscal_Item_Serial.O:dserial.Top">
+        <source>208</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9628840162</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TUniDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

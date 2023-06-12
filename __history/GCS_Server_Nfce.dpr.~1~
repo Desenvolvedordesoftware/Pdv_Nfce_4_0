@@ -1,0 +1,15 @@
+program GCS_Server_Nfce;
+
+uses
+  Forms,
+  principal in 'principal.pas' {frmPrincipal},
+  Thread.CheckConnection in '..\FNTS_Comuns\Thread.CheckConnection.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title := 'SQL Gerencial 2.0.5 - Server';
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.Run;
+end.

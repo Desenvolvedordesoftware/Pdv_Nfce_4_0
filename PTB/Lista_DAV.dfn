@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Fontes\FNTS_Pdv_Nfce\Lista_DAV.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Fontes\FNTS_Pdv_Nfce\Lista_DAV.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43768.9618518519</prop>
+        <prop prop-type="OrigDateTime">43000.4700462963</prop>
+        <prop prop-type="XlatDateTime">43000.4700462963</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">243</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmLista_DAV.Left" resname="O:frmLista_DAV.Left">
+        <source>400</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.Top" resname="O:frmLista_DAV.Top">
+        <source>385</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.BorderStyle" resname="O:frmLista_DAV.BorderStyle">
+        <source>bsNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.Caption" resname="O:frmLista_DAV.Caption">
+        <source>'DAV Emitidos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.ClientHeight" resname="O:frmLista_DAV.ClientHeight">
+        <source>218</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.ClientWidth" resname="O:frmLista_DAV.ClientWidth">
+        <source>434</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.Color" resname="O:frmLista_DAV.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.Font.Charset" resname="O:frmLista_DAV.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.Font.Color" resname="O:frmLista_DAV.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.Font.Height" resname="O:frmLista_DAV.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.Font.Name" resname="O:frmLista_DAV.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.Font.Style" resname="O:frmLista_DAV.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.OldCreateOrder" resname="O:frmLista_DAV.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.Position" resname="O:frmLista_DAV.Position">
+        <source>poScreenCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.OnClose" resname="O:frmLista_DAV.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.OnShow" resname="O:frmLista_DAV.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.PixelsPerInch" resname="O:frmLista_DAV.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.TextHeight" resname="O:frmLista_DAV.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmLista_DAV</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label3.Left" resname="O:frmLista_DAV.O:Label3.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517708</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label3.Top" resname="O:frmLista_DAV.O:Label3.Top">
+        <source>135</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label3.Width" resname="O:frmLista_DAV.O:Label3.Width">
+        <source>70</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label3.Height" resname="O:frmLista_DAV.O:Label3.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label3.Caption" resname="O:frmLista_DAV.O:Label3.Caption">
+        <source>'Período Inicial:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label4.Left" resname="O:frmLista_DAV.O:Label4.Left">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label4.Top" resname="O:frmLista_DAV.O:Label4.Top">
+        <source>135</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label4.Width" resname="O:frmLista_DAV.O:Label4.Width">
+        <source>26</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label4.Height" resname="O:frmLista_DAV.O:Label4.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Label4.Caption" resname="O:frmLista_DAV.O:Label4.Caption">
+        <source>'Final:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.Left" resname="O:frmLista_DAV.O:Panel1.Left">
+        <source>317</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.Top" resname="O:frmLista_DAV.O:Panel1.Top">
+        <source>46</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.Width" resname="O:frmLista_DAV.O:Panel1.Width">
+        <source>129</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.Height" resname="O:frmLista_DAV.O:Panel1.Height">
+        <source>307</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.BevelOuter" resname="O:frmLista_DAV.O:Panel1.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.Color" resname="O:frmLista_DAV.O:Panel1.Color">
+        <source>12615680</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.ParentBackground" resname="O:frmLista_DAV.O:Panel1.ParentBackground">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.TabOrder" resname="O:frmLista_DAV.O:Panel1.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Left" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Top" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Top">
+        <source>27</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Width" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Width">
+        <source>92</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Height" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Height">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Caption" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Caption">
+        <source>'OK'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Charset" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Color" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Height" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Name" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Style" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Charset" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Color" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Height" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Name" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Style" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.NotesFont.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.ParentFont" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Picture.Data" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Picture.Data">
+        <source>89504E470D0A1A0A0000000D49484452000000280000002808060000008CFEB86D000000097048597300000EC300000EC301C76FA864000000206348524D00007A25000080830000F9FF000080E8000052080001155800003A970000176FD75A1F90000008864944415478DABC99EB5353F919C79F999DEDCC76A6339DDDFE01DDBEEBBEA9BB9D6D5F75A69D76775D47EE8B8ABA8EAE407272218AE215E4A695AB562E2AB99C9344C05557AD1740856C88E2B22C2190730E49B4C072B1545DA4482040027EFB2201091709227DF19D49CE9CCCEF73BECFEF79F27B9E4366A4D36CDD45269926D388131832B89454D9A1249D2023635732B10E2571ED2AE24419B1A2F4B79C2095B322C37222636205692F2B488759413AACE3A5FD7A87EC2E2732E51C2FDDCB8AD235ACC810C7CB886D5790B15345FA072A323AE464702A48C7337467EC30DD4316CDE5A15001CF75EF25D6A17C9713E407599171B28214D3D2F12F3FCF5CB34B82AF894C17C733C7D876C5AFCF75ED22C3C35D6F06F07C6712E904D9DB7AA732871599219697CC83095D12E804A94FEF909D655DAAF7CE39152B047C9044951DCA30AD5DD2A1B3278215560217ECAE96970C1A9DCC76836B09400BD283743F7093C12127AD9DC99A7EF2370136D7CD80A3259CC0509D2F8DBE43F63C1E324DA507A97E2A936ABD69A46F67CA356D890BEEAF3729AD5D021D2FA9BDE5394477A7B2E6F190B6337D46BA1F8F92A1EB10E94549C5EAB8B6B8F44282C5D8798074DD478398E8A63B836EBA33A8C69D493746B248D79E9455D612FF7F85630529D4B678687845E5B5E79954E3CEA29BEE74BAE9CE20BAD29F4C97FB93E9DA9314BADAAFFA33CBAF7E58174C1C5E0A9D3D0197FB92B65F7F924297FB93E94A7F325179EF7EAAEC3B485CE7DEB7CE5A137E5A591959A17809CE5AE3C175EC79AFB2EF1095F7EE27FAE6592A5D194CA78A4E558EC6B6DAA1952C591134B6785474247D7DE5D911FA66309548E3DA431AE7EE77B4BCD4C7AD5A6230E044198A5B37A0C8F6053881012B300BDECB095268ED89D038541F685C7B880C8EDDA4171407593E71F5E00406F9D6B5A8ED52C3D2538E82E6B5D0099200E842BF490427C8CF181CBB89F4A2823881E95B4DB802EB5A5C72650093000054779C425EF3A7D00989AF80649E73A2E26D6245C56F5613AED0BA0E975C1998F2022FBC806F02C02450DD598402EBBA57EE574E9487132730AAD500E40419F29BD7E2A22B1D535E003E6078741CC3A3E3989C003005343CAAC4197E0B748BEC7D4E906A482F32E52C1FDA826AFB0E94D9B7831365AFBE579421AFF9335C741D81CFFB02F001EED1718C7826E01E1D8767CC1F6B6BF71DE47DB70E06A77CB128D493DE21B3CC3BBBCDFD1B12E538D3F62534FC4E68F80494B6C6412F2A1609AB0CF9B3E126FDCE4DC38D8F4F01009ABA6FE240F5C7385ABB16EAD69D38E74A9A57B839917948AC207DB4145C695B1C4EB644A267D08127EE1E9C6EDB82225BCC1CC8E96CFD3CC8B9D9706301B81F7AAA9052F53B64D77D8A7C7334724C1128B37D85732EE5DCF5078815A49EA5E122E0FAA91178E1CFC2DE21178A5B37A2B835167A511E9410175C6998F4629E73D370CD3D3548A95A83ECBA4F516889457E7D3472BF8D9C81343A8320475E09A8E177E274DB66389F36020046C77C707B26801740DFD04314D96251D2BA1106518902EBE7B8E04CF5C3CD736E3200571D80FB64066E5A7EC8F0B99023A4E3A5FF592CCD4F58D743786C01008C78BC707BFC8B8E7ABC7EC8FF3E40716B2C321BFF888BAE54F82626170D6B734F35F6557D88AC05E016820CECC941323865F7B58B24C999B6ADB8E83A8CA1D1416012708F4EF817F64C60D4E3035E00AEA74DB8F4E00846C7BCC161F5CC76AE06FBAA3E4476DDDF16859B0B79B665072A1EAA3A49DFCE7CAD5BE404A317E538D112069DC060D833044CCD861CC788C7EBAF693E7F010E726ECCEF9CB5F73652AAD620ABF69325E15E424620C71481B3B61D0DC4F1D2FD4B65F14BC8E741902301273D635333DF673BD7D27B27E05CE8703390E608E49BA38CC48A8A0F963C8E8B729C6809072B3070CF7172B6DC9E5945B8F776C8615D4879F55138716F631C71829C58413AB01CC8859C9C1DD696DEDBD857F511B26A5F0FCEAF18EFC9868D3F2743FB2EE204797E28C72DBD28C7096B580072DAC9F1A052E20FEB47C8AAFDEB6BC3E59A2351608EA92CAA8F23D23854A46E57FE4A6B97800BA5FB12E528B4AE072728E0F63C072601CF980F00D0FAA8CE5F4A5600576089C1F1BA089C34C7FCA1D4BC89E8D2B30374F9D9612AEF506AB4211EF9F5A21C852DEBC10972B83D6E0080ADAF16FBAB7FBFC2B046E3D89D7094366DB973BD4345573B1444E71F1FA20B8FD3C8D0B3EF1765B6C489509B26BD28C7496B38FED9F17734765F415ACD9F9055B732B83C7314B26F85A1CCB5FDFDF3FF5690B14F4254D9A9A28A4E155DEC4EA60B5DF24D3A7B0274A136DBA21C65FC3614FE108E1CF37AE49AA25E1B2EBF3E1A397591286DDA7A5063FF8A4A6D5BE974CB97445543A95435944AB786D2E8C6F323A415151AF5321A771D2F81C121F79F64EAA371BC2E7CF97096681CBB15863C4B94F9EA4012553FDB43D70676D1F5815D445C4FE64BF51D2363D721E2F8843A9D5D02560CBD9D343AFD47AFFCFA68E498C2971DDA9CDA28A7BA7DDB5B158F7792BE773B19025A707854E74D238343F6ADA63561593DEFEB40E69822916B8A6CBF3194F2CB86A96C324DA50569DEB8EB1E32E81EB2A8A243496A9BA47CB9BD88C11122A4390A79E648E49AA36B0A2C1B7E56EB4DA5EF719C2CC80CD2BC81A10519548F74323E5010E75052C5BF94F15ABBC4EB1F6086E6E434648165E13D996B8A448E2912A7EE6F3850DCB499F2EBBFA0EA91FD741F47979EB0CE00BA1464702AE97C978AB482EC7DBD53C14ECF4F42019D1DEE69C8BCFA28E499A370B221F6EAA9A6B835254D9BA9A4298EF2CC31AF07A87728A9B223C93F44FF712FB10EE5C79C202B6245E67168D9AD804E90A0C012833C73D470BE3946F38F860D7F51B76DA392D6AD54D4B8898ABFDFF466008D9DC9A47324055E43C8DF6145691827484B5881A9E3FC53FFA7D3AF2158413AC089CC4356905ACA5D496A755BFCA67C73F4BB85E6582A6ADC486ADB562A6AD91C12E0FF0600783C0BEA8110C4080000000049454E44AE426082</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Transparent" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.TabOrder" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618517824</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.OnClick" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.OnClick">
+        <source>bt_ok1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.BorderColor" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.BorderColor">
+        <source>12631218</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.BorderColorHot" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.BorderColorHot">
+        <source>10079963</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.BorderColorDown" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.BorderColorDown">
+        <source>4548219</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.Color" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.Color">
+        <source>14671574</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorTo">
+        <source>15000283</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorChecked" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorChecked">
+        <source>7915518</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorCheckedTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorCheckedTo">
+        <source>11918331</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorDisabled" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorDisabled">
+        <source>15921906</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorDisabledTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorDisabledTo">
+        <source>15921906</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorDown" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorDown">
+        <source>7778289</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorDownTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorDownTo">
+        <source>4296947</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorHot" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorHot">
+        <source>15465983</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorHotTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorHotTo">
+        <source>11332863</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirror" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirror">
+        <source>14144974</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorTo">
+        <source>15197664</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorHot" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorHot">
+        <source>5888767</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorHotTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorHotTo">
+        <source>10807807</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorDown" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorDown">
+        <source>946929</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorDownTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorDownTo">
+        <source>5021693</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorChecked" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorChecked">
+        <source>10480637</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorCheckedTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorCheckedTo">
+        <source>5682430</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorDisabled" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorDisabled">
+        <source>11974326</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorDisabledTo" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.ColorMirrorDisabledTo">
+        <source>15921906</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientHot" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientHot">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientMirrorHot" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientMirrorHot">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientDown" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientDown">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientMirrorDown" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientMirrorDown">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientChecked" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Appearance.GradientChecked">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_ok.Layout" resname="O:frmLista_DAV.O:Panel1.O:bt_ok.Layout">
+        <source>blGlyphTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Left" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Top" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Top">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Width" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Width">
+        <source>92</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Height" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Height">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Caption" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Caption">
+        <source>'Cancelar'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Charset" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Color" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Height" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Name" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.961851794</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Style" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Charset" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Color" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Height" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Name" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Style" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.NotesFont.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.ParentFont" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Picture.Data" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Picture.Data">
+        <source>89504E470D0A1A0A0000000D49484452000000280000002808060000008CFEB86D000000097048597300000EC300000EC301C76FA864000000206348524D00007A25000080830000F9FF000080E8000052080001155800003A970000176FD75A1F90000009564944415478DAB4996B6C5BE51DC6FF12621293264DB02FDB00D17DD844B742B9AF6D1A9A9B9DA4F812DBE7E2A471EC243E766E6D9396B409C99CA494316DD2C6C404B41B1250AA6E6C65373469C03676D13498B6412EBEC44D5B484BE3738EEF766227E9B30FC776E2DA4E5C281F9E0FB6FCFAFDF9F9BFEFFBFCCF6B82CB45799A18A7D5D15192190745CDBD146EEB21997550BCAD9F427C3745F93E921927494CE7DD122B74CBACF0A2CC0A6F4B8CFD4389B14733BA2CF38EBFCAAC704A6485C33263DF2E330E0A324E92F92E8A58FA28DADC4741733745F81E928D022D1F1D223C3941D7F250B98009DB210AF13DB70659E790CC086E89B1232BD1D489F5AF25C60ED1D80969DDFB32239C9319FB7199EBBA2BDAB69F622DFB6F10A0B59764D67973D8DCFDB4C40A6105A610A81C89CAB8E520EF783E62EEBD2DD8D2F329019B7B296CE9D1048C9D7ED1D8F189C10ADDED8068EA0CCACD4E6BD4DC47B2D1B101E0B82B5FC72708632E0A724E928DC2B8C4D8F34A75E3A4544236399E951907AD3E3142F8EEB1021EC2A82B5F63E3B43A3C4232279C0A18DA2199EC9F015C819B6F2E0F0E1326260A7808AD2E45FB5C84B62769D9324422DBFEEA6709554C01C6F64EAA7590603DAEB064B80887C6143D3E4E387C8CA25CEFF882CE5AFACB3E4DB93718BBA0B7226CEC3A8DFE09C29109C22117E1D018515418A0A83040B19EC729E238B027602A5156B31392C68240851662630B247357F960E58C35D91130DA10B6F75AA33D83392E4AB51FA1947D8892AD876F5AD0B68BA2A9A37030EF8458C340D2DB10F9F96F205B0F42ACD02A136F06773D634D9DB8A2B521B16FE0B6947D9852ED478856FA4668A57F8CA26D7D4F2FE8AD25263041ACD022FAAFFF620940CC7F01A28A8758A9DF18F2138C5DD0DB10B1F49C5939E8A295BE11A228DF4F51EEE02D92C9BE5C70CEB102C4C61688554644DF7D1F4900F1A5652401C4CE7D08692348B31362B50962850ED1F73EC81FEBBF08A9B119929A87C4390A378CB1031176FFD6283F40146BE9A710DB351428565A9D15928A43CC7D4E9960318D786209F1645A799D85ACD0E6AF2BB31362B511E26E1DA2EFFE2F07174F2C219E48611140321C47D0D00E5963C926CCBAE8EC4090753E176BEE2792CDDD24B3C2474553A2A91D929A47E4B5DF2B935C456E922C64CC7F0162BD19E22E8D0299756EB77E9DEB991F96584262E52AD2003E7EE32DCC566A21EBAD08F18515905921229BBB6F2699737CADE41A6205484D3604EEAB45F88553480248603D644A819C3D0FA9DE0CF1D126886A5E296B9E73A93CB82BA7CF62EA8E7B30F9880AFE061E41CE5104B21332E7D092CC3A0E6C98B19C0392CE8AC0BDD508BFF08A0279B508E4DC4588155A04EEAD46F4DF1F143A975EC532802BAF9EC5E4EDF7C0B3B3113E358BE93D3AF8D5AC02C939AF75F124C9BCE3D4A687EF7AC8E75FC92F7772ADDCD177DF47E4CDBF153AB79C813BF54B4CDEB91DEE1D0DF0AA19786B8DF0D61A31BD4787D96B214D76C89CF0179279C73BA2B18C74C8426EAF29EE6422854476092453796B4E71EE5798BAEB3EB81F51C3AB66737039C82A1DFC2A26576ED1D40999137C2431F6F9B213817340D2B521705F4D092753882FA672806B70673175E7F69270EB9DBC06522289B127AF2B4F3390E2032A849EF929E2B104E2E99535C08C12A96524928BB8FCFC4B98DA723F3C3B1A3684CB8354E720E3D70FC8D821357743DCAD43607B0D62B317D6CABA4E8B0062F31F637A5B25A6B6DC0FDF5EF3A670F94EB208728E384926FBC7D705973DE72AF588FEF33F0ADC62BA0030BEA8408627DD703FACC2F4D60AF8EAB9F221ABF4F0ABD92005CDCE7F94B549CA4888447A1589F46A6ED3C417D3480388F8E630F3601DA6EFDE015F4379909E1A03BC75C67314E41D67CA02DC2C21D2AB5804B00820B17215B1B8F27E0ED27B4E71F21BE5417A6A0CF0A999BF93C43A8E6CFA30946999364B884BCF9CC487A34F2305289F59178B6900118F1FEE87324E6E526E4F8D017E15FB320579E7D6CDE1322DD37BEF974E88D36731F9E56FE283DBBE8E4B3F3A8174065271525997D972BB1FACC5F4D65D1B42BA6B0DB8A0E6CD24714E9218BB54328B1B5B2056E7B75BA512C2B3AB11DE2A3D26BFF22D5CFAE10B39C8DC39B96E4DBA1F5163E6815A78554C29C8F45C3DF7798A9A0F5288757EBF68BBA5B742AC630BDBAD8D1242C5C053A9C1E457B7613E0B79158865CA1D4BA4B00C20168CC053A9817B67436179AB9AE0A9674ECF36351385D8FD14627ABF5474A318DA21AA7944CEFC36176DB1F81212AB9B24848A8167B70693B76FCB73323B360D407CE36D782AF6C2B35B930F586782FB513DCED7310F5F7CCC4CB4D43B44A9832314B6F49C5CD0DB4AB65BA19FBC84446622A5657A5DE94A4A254416729D934BD9B12FBFA68CDDB5B7A0C453953A5CD4B5FC31D9758092F65EA255E730ADF68C52CA36F88580BE3D557011C43920E96D4A2773E2552C01B8F28BDF61EA8E7BE0D999DF951485ACD4286BF2D99F6105C09533BFC6E4EDDB8AC2796B8C98DCA5C105B675CBA5AE2E9AEFB013055B0F5070DF010ADB0628D8D6CD078CB622F92B40D2DB1054F1081C1EC7D48E06CC7C5B0D5F19D99A859CB9BF1AE7BB1E8767D75E78763616DD1C338FEA30DF641B0AB4F6D16556A0CBAC40B4DC3FA2E8D028AD0EB828C2F59C58682A0169EC845C6DC27C3D8F995A8372DA97135D2A06DE2A3DA6B755C253A929EAFA4CA50E9E3AC39FA307FB29797498920383943C344804CB78466304EB714AB71CA50583F5AD52E7A2CC08089BBB704967C17495AE7CC84DE4AED4BBE74CCD37CDD9ADE46FDD477E8B22C2906B4DC3637475648C96078748E6843F050C1DC52159011173F70D8174EF6982A7DA301DDF3FF0C5B4EB3B941E1EA6D4D0504E8463AE354DB8084F4D1026C628C8394836D84F89251E07644640E4533AE9A936C0536BF8834F65FADCCA13A3841F7C4FB9E13A762CA792179841C64131732F852CDD9D0163675AB9C0BC314E7AAA9BE0A932E05C037B744ECB914F65A4A5C347094F3D791D37AC2681A22D7D14B6F591CC3AB684F8AE17B30FD585905927F51B43D618E1AD31C05FCFBE3EFB18BFFDBCD64CE7B51C79EB0C9F10B0B997426DBD24734E4A580728C4773F14641D3F9619E1CAB5576AD98D339385CC6A0D30E2A9359E9C533355F3060BF99B5A68EE319EE634370270DDDF1031AE8F828CF31689B16B244678566285B7645670CBAC108898BBA297B496A8BBA649F2A94C3E5F9DE91D6F9DF184AFCEC4FBD4A65B3D6A135D6860E9A3A6569AD5359705F8FF0100B9934224A87C8EDD0000000049454E44AE426082</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Transparent" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.TabOrder" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.OnClick" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.OnClick">
+        <source>bt_cancelar1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.BorderColor" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.BorderColor">
+        <source>12631218</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.BorderColorHot" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.BorderColorHot">
+        <source>10079963</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.BorderColorDown" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.BorderColorDown">
+        <source>4548219</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.Color" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.Color">
+        <source>14671574</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorTo">
+        <source>15000283</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorChecked" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorChecked">
+        <source>7915518</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorCheckedTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorCheckedTo">
+        <source>11918331</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorDisabled" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorDisabled">
+        <source>15921906</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorDisabledTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorDisabledTo">
+        <source>15921906</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorDown" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorDown">
+        <source>7778289</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorDownTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorDownTo">
+        <source>4296947</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorHot" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorHot">
+        <source>15465983</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorHotTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorHotTo">
+        <source>11332863</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirror" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirror">
+        <source>14144974</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorTo">
+        <source>15197664</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorHot" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorHot">
+        <source>5888767</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorHotTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorHotTo">
+        <source>10807807</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518056</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorDown" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorDown">
+        <source>946929</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorDownTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorDownTo">
+        <source>5021693</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorChecked" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorChecked">
+        <source>10480637</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorCheckedTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorCheckedTo">
+        <source>5682430</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorDisabled" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorDisabled">
+        <source>11974326</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorDisabledTo" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.ColorMirrorDisabledTo">
+        <source>15921906</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientHot" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientHot">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientMirrorHot" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientMirrorHot">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientDown" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientDown">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientMirrorDown" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientMirrorDown">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientChecked" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Appearance.GradientChecked">
+        <source>ggVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Layout" resname="O:frmLista_DAV.O:Panel1.O:bt_cancelar.Layout">
+        <source>blGlyphTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TAdvGlowButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.Left" resname="O:frmLista_DAV.O:ed_data_ini.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.Top" resname="O:frmLista_DAV.O:ed_data_ini.Top">
+        <source>133</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.Width" resname="O:frmLista_DAV.O:ed_data_ini.Width">
+        <source>87</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.Height" resname="O:frmLista_DAV.O:ed_data_ini.Height">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.Color" resname="O:frmLista_DAV.O:ed_data_ini.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.Flat" resname="O:frmLista_DAV.O:ed_data_ini.Flat">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.ParentFlat" resname="O:frmLista_DAV.O:ed_data_ini.ParentFlat">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.NumGlyphs" resname="O:frmLista_DAV.O:ed_data_ini.NumGlyphs">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.ShowNullDate" resname="O:frmLista_DAV.O:ed_data_ini.ShowNullDate">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.TabOrder" resname="O:frmLista_DAV.O:ed_data_ini.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_ini.OnKeyPress" resname="O:frmLista_DAV.O:ed_data_ini.OnKeyPress">
+        <source>ed_data_iniKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.Left" resname="O:frmLista_DAV.O:ed_data_fim.Left">
+        <source>216</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.Top" resname="O:frmLista_DAV.O:ed_data_fim.Top">
+        <source>133</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.Width" resname="O:frmLista_DAV.O:ed_data_fim.Width">
+        <source>89</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.Height" resname="O:frmLista_DAV.O:ed_data_fim.Height">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.Color" resname="O:frmLista_DAV.O:ed_data_fim.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.Flat" resname="O:frmLista_DAV.O:ed_data_fim.Flat">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.ParentFlat" resname="O:frmLista_DAV.O:ed_data_fim.ParentFlat">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.NumGlyphs" resname="O:frmLista_DAV.O:ed_data_fim.NumGlyphs">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.ShowNullDate" resname="O:frmLista_DAV.O:ed_data_fim.ShowNullDate">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.TabOrder" resname="O:frmLista_DAV.O:ed_data_fim.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:ed_data_fim.OnKeyPress" resname="O:frmLista_DAV.O:ed_data_fim.OnKeyPress">
+        <source>ed_data_iniKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.Left" resname="O:frmLista_DAV.O:GroupBox1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.Top" resname="O:frmLista_DAV.O:GroupBox1.Top">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.Width" resname="O:frmLista_DAV.O:GroupBox1.Width">
+        <source>297</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.Height" resname="O:frmLista_DAV.O:GroupBox1.Height">
+        <source>41</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.Caption" resname="O:frmLista_DAV.O:GroupBox1.Caption">
+        <source>'Tipo'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.TabOrder" resname="O:frmLista_DAV.O:GroupBox1.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Left" resname="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Top" resname="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Width" resname="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Width">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518171</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Height" resname="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Caption" resname="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Caption">
+        <source>'Relatório Gerencial'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Checked" resname="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.TabOrder" resname="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.TabStop" resname="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.TabStop">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.OnKeyPress" resname="O:frmLista_DAV.O:GroupBox1.O:rb_gerencial.OnKeyPress">
+        <source>rb_gerencialKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Left" resname="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Top" resname="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Width" resname="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Width">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Height" resname="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Caption" resname="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.Caption">
+        <source>'Arquivo Eletrônico'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.TabOrder" resname="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.OnKeyPress" resname="O:frmLista_DAV.O:GroupBox1.O:rb_arquivo.OnKeyPress">
+        <source>rb_gerencialKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Left" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Top" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Width" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Width">
+        <source>434</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Height" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Height">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Cursor" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Cursor">
+        <source>crDefault</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Charset" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Color" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Height" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Name" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Style" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.HTMLFont.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Charset" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Color" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Height" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Height">
+        <source>-16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Name" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Style" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Line" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Caption.Line">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.Color" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.Color">
+        <source>6960384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ColorTo" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ColorTo">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ColorMirror" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ColorMirror">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ColorMirrorTo" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ColorMirrorTo">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.GradientType" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.GradientType">
+        <source>gtSolid</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.GradientMirrorType" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.GradientMirrorType">
+        <source>gtSolid</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.BorderColor" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.BorderColor">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.BorderWidth" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.BorderWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.Rounding" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.Rounding">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ShadowColor" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ShadowColor">
+        <source>clNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518287</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ShadowOffset" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.ShadowOffset">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.Glow" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Fill.Glow">
+        <source>gmNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Version" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Version">
+        <source>'1.1.1.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Align" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.Align">
+        <source>alTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.TabOrder" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.ShowExpander" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.ShowExpander">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.ExpanderColor" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.ExpanderColor">
+        <source>16445929</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.ExpanderDownColor" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.ExpanderDownColor">
+        <source>15587527</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.ExpanderHoverColor" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.ExpanderHoverColor">
+        <source>11196927</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.TMSStyle" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.TMSStyle">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.OldHeight" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.OldHeight">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TAdvSmoothExpanderPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Left" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Left">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Top" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Top">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Width" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Width">
+        <source>130</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Height" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Caption" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Caption">
+        <source>'DAV Emitidos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Charset" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Color" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Height" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Name" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Name">
+        <source>'Verdana'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Style" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.ParentFont" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Transparent" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:Label53.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Left" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Left">
+        <source>380</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Top" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Width" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Width">
+        <source>56</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Height" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Height">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Appearance.PictureColor" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Appearance.PictureColor">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Caption" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Caption">
+        <source>''</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Picture.Data" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Picture.Data">
+        <source>89504E470D0A1A0A0000000D494844520000002A0000002A0806000000C5C3C95B0000001974455874536F6674776172650041646F626520496D616765526561647971C9653C0000032269545874584D4C3A636F6D2E61646F62652E786D7000000000003C3F787061636B657420626567696E3D22EFBBBF222069643D2257354D304D7043656869487A7265537A4E54637A6B633964223F3E203C783A786D706D65746120786D6C6E733A783D2261646F62653A6E733A6D6574612F2220783A786D70746B3D2241646F626520584D5020436F726520352E332D633031312036362E3134353636312C20323031322F30322F30362D31343A35363A32372020202020202020223E203C7264663A52444620786D6C6E733A7264663D22687474703A2F2F7777772E77332E6F72672F313939392F30322F32322D7264662D73796E7461782D6E7323223E203C7264663A4465736372697074696F6E207264663A61626F75743D222220786D6C6E733A786D703D22687474703A2F2F6E732E61646F62652E636F6D2F7861702F312E302F2220786D6C6E733A786D704D4D3D22687474703A2F2F6E732E61646F62652E636F6D2F7861702F312E302F6D6D2F2220786D6C6E733A73745265663D22687474703A2F2F6E732E61646F62652E636F6D2F7861702F312E302F73547970652F5265736F75726365526566232220786D703A43726561746F72546F6F6C3D2241646F62652050686F746F73686F7020435336202857696E646F7773292220786D704D4D3A496E7374616E636549443D22786D702E6969643A34454141324439453034443031314535383445454144453434363535353531312220786D704D4D3A446F63756D656E7449443D22786D702E6469643A3445414132443946303444303131453538344545414445343436353535353131223E203C786D704D4D3A4465726976656446726F6D2073745265663A696E7374616E636549443D22786D702E6969643A3445414132443943303444303131453538344545414445343436353535353131222073745265663A646F63756D656E7449443D22786D702E6469643A3445414132443944303444303131453538344545414445343436353535353131222F3E203C2F7264663A4465736372697074696F6E3E203C2F7264663A5244463E203C2F783A786D706D6574613E203C3F787061636B657420656E643D2272223F3E4B533802000004B14944415478DAD4997968554714C65F1215778D2651A352637109C605036EE082A2455C6A5D50682554105C402B05A960ABE03F820A2AA2E082FE218A2888FB52975A49085151DBB815375C316AAAC625C6C4EB77E01B3D0EBEF7665EDE7BE0811FF7BE3B73CF7C77EEDC9973E6A5044110FA1AAC4E2DEF6F023A806EA02B680B9A8306A012FC0F1E82CBE02AB8092A40902CA11DC170F03DE80D5A39DCF3045C007BC1617003BC776D30C5F3D54BEF4D063F832EEAFA6B50069E9337A03E7BB729C8028D54FD5B600BD806AEC75BE838301FF457D72E82425002AEF135BF0255A02E878688EC0CF2C1401E8D9D03CBC0CEA8BD2B42A3D0002C02CF824F560C6680AE0EF76BBE05D3C029E5EB25580A9A45BA379AE3266003A8A15311FB07E8E029D0A61D980FCA94E0ED202B16A10DC13AE5A8147C07D26A29D220C36E083867894DF715BA44F56409E81E2781369DC009B6F31E2CE74338099DA8C6E4BF0914A9C76E09DB7B0D0A5C84760467D5981C9A6091867EE0A11A66B99184A682DF59B986033E2549428559E01DDB972150279CD0CEE0162BFE0D32922832C429EA00DB9719A1A7294B5553AA9C8FE6EAF3166CE0B2974C93556D13780932C1789066C4196BCAB55BEC3C38E2D140373EE0974C0295EE1EBE8E83629E8F0119F6CAD417BC61B72FF6785D23C04D5008BA7C6128FDC5E134CEC3E7AF9CAA64BC0EB3C7E84C8A7C0C463A3A1C4691C644540ECB72F8DBD87D30D6D1EF60D617FBCD1EA33D787CC000C3C546821CF57B3058CDC065357F1BCBE6AB743169FF2ECFF3EC576FBEB683A091E3934BAF1D0E3EB76A50C1A3B6427B6E8C804C4B3BD4ECF3598F9AE0F71143351793B8723A38A6AEC957DAD87CADB462C6B0571CFD56333BF8A84B0B35816D95E79422AFA8001C0D537E1AFC08FEF3F45BC163335B688A09516398FF5E71EE0D5716CB7C1C685DA9563A116264EE6312C16F06A3C2940F67DA91E5E9B7318F2F6CA18FD49868E8E84CEAAE053F58BE6A548FA4B17C9D63126874A5F3BCCC167A57AD24998E0EE78109D635F970268193D675590E173AFA95D5E81B9EDFB18596F2D80674727458C47957FB98037683B9E08C2A7BCAFA2E26EDB7E3F9257B1E1D08AAF46AE0882C8DF7C025D0DF2AEBC55443E2CC9F3C7CFEC279B8DAAC92BA5042BA220A952CB18587E301202F4C9964AA833C7C49AEB65F05D0D9B650099A17A814765292635183F46039752C35C1B35D294FA50387A2E5DA094096EE9D6CFF29C80F17E1A7F129028658B3922C742AA864FB6B22A52221060EA5AC2CBDDB27492225D3BDCD76AFF3438C9A2E17A820BA280E3B23D16803FE54B9FD6C3BA90C77A37C582B7993D8B1048A6D0BF6A8707023A8EFB353D2925B2C3A9E1C106791BDD52E49C098383B964D32D9B4DAA51CDDE36BC9AAA540E984E9E086F22DB34CFB5877F38CD3556ACC1AA753406B4F81999C9FF7295F32BBAC0FD79306D78DDCBA0C7E6523375705D812809C026719183F61C05BCD6D7709D55A70773A9F39543FEEF187B8DBBC826160653CB7C6257F9FCA88BEB5BA5ECE30F131838F777C3811D9927533ACFA5B19C75E48C41EBEE9DD5CEEAA08BD540F4532C900FE0187F887436984AC202E42751297CED7DA93E2B3D973F5D8ABD273F799D45D641A5CCEA1E165B5119A54FB20C0004E7B10B44195D3E70000000049454E44AE426082</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.TabOrder" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">234</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Version" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.Version">
+        <source>'1.1.2.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">235</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.OnClick" resname="O:frmLista_DAV.O:AdvSmoothExpanderPanel1.O:AdvMetroButton1.OnClick">
+        <source>AdvMetroButton1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">236</prop><prop prop-type="Type">TAdvMetroButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:qrDAV.Connection" resname="O:frmLista_DAV.O:qrDAV.Connection">
+        <source>frmModulo.conexao</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">237</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:qrDAV.Left" resname="O:frmLista_DAV.O:qrDAV.Left">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">238</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:qrDAV.Top" resname="O:frmLista_DAV.O:qrDAV.Top">
+        <source>168</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">239</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:query.Connection" resname="O:frmLista_DAV.O:query.Connection">
+        <source>frmModulo.Conexao_Servidor</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">240</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:query.Left" resname="O:frmLista_DAV.O:query.Left">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">241</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_DAV.O:query.Top" resname="O:frmLista_DAV.O:query.Top">
+        <source>168</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618518403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">242</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

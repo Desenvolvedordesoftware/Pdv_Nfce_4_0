@@ -1,0 +1,202 @@
+unit Comanda;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, DB, MemDS, DBAccess, Vcl.Mask, RzEdit, AdvMetroButton,
+  AdvSmoothPanel, AdvSmoothExpanderPanel, Uni;
+
+type
+  TFComanda = class(TForm)
+    AdvSmoothExpanderPanel1: TAdvSmoothExpanderPanel;
+    Label53: TLabel;
+    AdvMetroButton1: TAdvMetroButton;
+    QRITEM: TUniQuery;
+    ValorProduto: TRzNumericEdit;
+    procedure FormKeyDown(Sender: TObject; var Key: Word;
+      Shift: TShiftState);
+    procedure EditComandaKeyPress(Sender: TObject; var Key: Char);
+    procedure AdvMetroButton1Click(Sender: TObject);
+    procedure ValorProdutoKeyPress(Sender: TObject; var Key: Char);
+    procedure ValorProdutoExit(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    procedure FechaComanda;
+  end;
+
+var
+  FComanda: TFComanda;
+
+implementation
+
+uses modulo, principal, funcoes, venda;
+
+{$R *.dfm}
+
+procedure TFComanda.FormKeyDown(Sender: TObject; var Key: Word;
+  Shift: TShiftState);
+begin
+  if key = VK_ESCAPE then
+  Close;
+end;
+
+procedure TFComanda.ValorProdutoExit(Sender: TObject);
+
+begin
+  if ValorProduto.value <= 0 then begin
+    Application.MessageBox('Favor informar um valor MAIOR que ZERO!','Erro',mb_ok+mb_iconerror);
+    ValorProduto.setfocus;
+    exit;
+  end;
+
+
+
+   frmmodulo.query_servidor.Close;
+             frmmodulo.query_servidor.sql.clear;
+             frmmodulo.query_servidor.sql.add('update c000025 set PRECOVENDA = :VALOR ');
+             frmmodulo.query_servidor.sql.add('where');
+             frmmodulo.query_servidor.sql.add('CODBARRA = :BARRA');
+             frmmodulo.query_servidor.Parambyname('BARRA').asstring := frmvenda.ed_barra.text;
+             frmmodulo.query_servidor.ParamByName('valor').asfloat := ValorProduto.value;
+          // query.open;
+             frmmodulo.query_servidor.ExecSQL;
+
+             QRITEM.Close;
+             QRITEM.sql.clear;
+             QRITEM.sql.add('update ESTOQUE set PRECO_VENDA = :VALOR ');
+             QRITEM.sql.add('where');
+             QRITEM.sql.add('COD_BARRA = :BARRA');
+             QRITEM.Parambyname('BARRA').asstring := frmvenda.ed_barra.text;
+             QRITEM.ParamByName('valor').asfloat := ValorProduto.value;
+          // query.open;
+             QRITEM.ExecSQL;
+
+
+  if (frmmodulo.query_servidor.RecordCount = 0) and
+     (qritem.RecordCount = 0) then
+  begin
+    MessageBeep(32);
+    Application.messagebox('VALOR DO PRODUTO ADICIONADO COM SUCESSO!','Atenção!',mb_ok);
+
+    close;
+
+  end;
+end;
+
+procedure TFComanda.ValorProdutoKeyPress(Sender: TObject; var Key: Char);
+begin
+  if key = #13 then begin
+
+ // frmvenda.Imprime_display('ADICIONAR VALOR NO PRODUTO!', clred, tierro);
+//    sleep(1500);
+//    balterar.setfocus;
+if ValorProduto.value <= 0 then begin
+    Application.MessageBox('Favor informar um valor MAIOR que ZERO!','Erro',mb_ok+mb_iconerror);
+    ValorProduto.setfocus;
+    exit;
+  end;
+
+
+
+   frmmodulo.query_servidor.Close;
+             frmmodulo.query_servidor.sql.clear;
+             frmmodulo.query_servidor.sql.add('update c000025 set PRECOVENDA = :VALOR ');
+             frmmodulo.query_servidor.sql.add('where');
+             frmmodulo.query_servidor.sql.add('CODBARRA = :BARRA');
+             frmmodulo.query_servidor.Parambyname('BARRA').asstring := frmvenda.ed_barra.text;
+             frmmodulo.query_servidor.ParamByName('valor').asfloat := ValorProduto.value;
+          // query.open;
+             frmmodulo.query_servidor.ExecSQL;
+
+             QRITEM.Close;
+             QRITEM.sql.clear;
+             QRITEM.sql.add('update ESTOQUE set PRECO_VENDA = :VALOR ');
+             QRITEM.sql.add('where');
+             QRITEM.sql.add('COD_BARRA = :BARRA');
+             QRITEM.Parambyname('BARRA').asstring := frmvenda.ed_barra.text;
+             QRITEM.ParamByName('valor').asfloat := ValorProduto.value;
+          // query.open;
+             QRITEM.ExecSQL;
+
+
+  if (frmmodulo.query_servidor.RecordCount = 0) and
+     (qritem.RecordCount = 0) then
+  begin
+    MessageBeep(32);
+    Application.messagebox('VALOR DO PRODUTO ADICIONADO COM SUCESSO!','Atenção!',mb_ok);
+
+    close;
+
+  end;
+end;
+
+
+
+end;
+
+procedure TFComanda.AdvMetroButton1Click(Sender: TObject);
+begin
+  close;
+end;
+
+procedure TFComanda.EditComandaKeyPress(Sender: TObject;
+  var Key: Char);
+begin
+  if key = #13 then begin
+    FechaComanda;
+  end;
+
+end;
+
+procedure TFComanda.FechaComanda;
+begin
+
+
+ // frmvenda.Imprime_display('ADICIONAR VALOR NO PRODUTO!', clred, tierro);
+//    sleep(1500);
+//    balterar.setfocus;
+if ValorProduto.value <= 0 then begin
+    Application.MessageBox('Favor informar um valor MAIOR que ZERO!','Erro',mb_ok+mb_iconerror);
+    ValorProduto.setfocus;
+    exit;
+  end;
+
+
+
+   frmmodulo.query_servidor.Close;
+             frmmodulo.query_servidor.sql.clear;
+             frmmodulo.query_servidor.sql.add('update c000025 set PRECOVENDA = :VALOR ');
+             frmmodulo.query_servidor.sql.add('where');
+             frmmodulo.query_servidor.sql.add('CODBARRA = :BARRA');
+             frmmodulo.query_servidor.Parambyname('BARRA').asstring := frmvenda.ed_barra.text;
+             frmmodulo.query_servidor.ParamByName('valor').asfloat := ValorProduto.value;
+          // query.open;
+             frmmodulo.query_servidor.ExecSQL;
+
+             QRITEM.Close;
+             QRITEM.sql.clear;
+             QRITEM.sql.add('update ESTOQUE set PRECO_VENDA = :VALOR ');
+             QRITEM.sql.add('where');
+             QRITEM.sql.add('COD_BARRA = :BARRA');
+             QRITEM.Parambyname('BARRA').asstring := frmvenda.ed_barra.text;
+             QRITEM.ParamByName('valor').asfloat := ValorProduto.value;
+          // query.open;
+             QRITEM.ExecSQL;
+
+
+  if (frmmodulo.query_servidor.RecordCount = 0) and
+     (qritem.RecordCount = 0) then
+  begin
+    MessageBeep(32);
+    Application.messagebox('VALOR DO PRODUTO ADICIONADO COM SUCESSO!','Atenção!',mb_ok);
+
+    close;
+
+  end;
+end;
+
+
+end.

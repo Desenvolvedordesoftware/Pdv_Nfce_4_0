@@ -1,0 +1,25 @@
+unit caixa_pausa;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, JvExControls, JvAnimatedImage, JvGIFCtrl;
+
+type
+  Tfrmcaixafechado = class(TForm)
+    JvGIFAnimator1: TJvGIFAnimator;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmcaixafechado: Tfrmcaixafechado;
+
+implementation
+
+{$R *.dfm}
+
+end.

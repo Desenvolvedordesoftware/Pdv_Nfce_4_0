@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Fontes\FNTS_Pdv_Nfce\Lista_Vendas_Periodo.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Fontes\FNTS_Pdv_Nfce\Lista_Vendas_Periodo.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43768.9618518519</prop>
+        <prop prop-type="OrigDateTime">43426.6482407407</prop>
+        <prop prop-type="XlatDateTime">43426.6482407407</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">255</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Left" resname="O:frmLista_Vendas_Periodo.Left">
+        <source>382</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Top" resname="O:frmLista_Vendas_Periodo.Top">
+        <source>161</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.BorderStyle" resname="O:frmLista_Vendas_Periodo.BorderStyle">
+        <source>bsDialog</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Caption" resname="O:frmLista_Vendas_Periodo.Caption">
+        <source>'Vendas do Período'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.ClientHeight" resname="O:frmLista_Vendas_Periodo.ClientHeight">
+        <source>383</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.ClientWidth" resname="O:frmLista_Vendas_Periodo.ClientWidth">
+        <source>747</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Color" resname="O:frmLista_Vendas_Periodo.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Font.Charset" resname="O:frmLista_Vendas_Periodo.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Font.Color" resname="O:frmLista_Vendas_Periodo.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Font.Height" resname="O:frmLista_Vendas_Periodo.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618533912</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Font.Name" resname="O:frmLista_Vendas_Periodo.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Font.Style" resname="O:frmLista_Vendas_Periodo.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.OldCreateOrder" resname="O:frmLista_Vendas_Periodo.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.Position" resname="O:frmLista_Vendas_Periodo.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.OnClose" resname="O:frmLista_Vendas_Periodo.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.OnShow" resname="O:frmLista_Vendas_Periodo.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.PixelsPerInch" resname="O:frmLista_Vendas_Periodo.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.TextHeight" resname="O:frmLista_Vendas_Periodo.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmLista_Vendas_Periodo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Bevel1.Left" resname="O:frmLista_Vendas_Periodo.O:Bevel1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TBevel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Bevel1.Top" resname="O:frmLista_Vendas_Periodo.O:Bevel1.Top">
+        <source>351</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TBevel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Bevel1.Width" resname="O:frmLista_Vendas_Periodo.O:Bevel1.Width">
+        <source>747</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TBevel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Bevel1.Height" resname="O:frmLista_Vendas_Periodo.O:Bevel1.Height">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TBevel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Bevel1.Align" resname="O:frmLista_Vendas_Periodo.O:Bevel1.Align">
+        <source>alBottom</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TBevel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Bevel1.ExplicitTop" resname="O:frmLista_Vendas_Periodo.O:Bevel1.ExplicitTop">
+        <source>327</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TBevel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Bevel1.ExplicitWidth" resname="O:frmLista_Vendas_Periodo.O:Bevel1.ExplicitWidth">
+        <source>447</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TBevel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label3.Left" resname="O:frmLista_Vendas_Periodo.O:Label3.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label3.Top" resname="O:frmLista_Vendas_Periodo.O:Label3.Top">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label3.Width" resname="O:frmLista_Vendas_Periodo.O:Label3.Width">
+        <source>70</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label3.Height" resname="O:frmLista_Vendas_Periodo.O:Label3.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label3.Caption" resname="O:frmLista_Vendas_Periodo.O:Label3.Caption">
+        <source>'Período Inicial:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label4.Left" resname="O:frmLista_Vendas_Periodo.O:Label4.Left">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label4.Top" resname="O:frmLista_Vendas_Periodo.O:Label4.Top">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label4.Width" resname="O:frmLista_Vendas_Periodo.O:Label4.Width">
+        <source>26</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label4.Height" resname="O:frmLista_Vendas_Periodo.O:Label4.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Label4.Caption" resname="O:frmLista_Vendas_Periodo.O:Label4.Caption">
+        <source>'Final:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Left" resname="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Left">
+        <source>312</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Top" resname="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Top">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Width" resname="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Width">
+        <source>120</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Height" resname="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Caption" resname="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Caption">
+        <source>'Tabela de Saida'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:BT_SAIDA.TabOrder" resname="O:frmLista_Vendas_Periodo.O:BT_SAIDA.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Visible" resname="O:frmLista_Vendas_Periodo.O:BT_SAIDA.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:BT_SAIDA.OnClick" resname="O:frmLista_Vendas_Periodo.O:BT_SAIDA.OnClick">
+        <source>BT_SAIDAClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.Left" resname="O:frmLista_Vendas_Periodo.O:Panel1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.Top" resname="O:frmLista_Vendas_Periodo.O:Panel1.Top">
+        <source>353</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.Width" resname="O:frmLista_Vendas_Periodo.O:Panel1.Width">
+        <source>747</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.Height" resname="O:frmLista_Vendas_Periodo.O:Panel1.Height">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.Align" resname="O:frmLista_Vendas_Periodo.O:Panel1.Align">
+        <source>alBottom</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.BevelOuter" resname="O:frmLista_Vendas_Periodo.O:Panel1.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534028</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.Color" resname="O:frmLista_Vendas_Periodo.O:Panel1.Color">
+        <source>15830313</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.TabOrder" resname="O:frmLista_Vendas_Periodo.O:Panel1.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Left" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Left">
+        <source>148</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Top" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Top">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Width" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Height" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Caption" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.Caption">
+        <source>'&amp;Gerar'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.TabOrder" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.OnClick" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_ok.OnClick">
+        <source>bt_okClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Left" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Left">
+        <source>228</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Top" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Top">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Width" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Height" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Caption" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.Caption">
+        <source>'&amp;Fechar'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.TabOrder" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.OnClick" resname="O:frmLista_Vendas_Periodo.O:Panel1.O:bt_cancelar.OnClick">
+        <source>bt_cancelarClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_ini.Left" resname="O:frmLista_Vendas_Periodo.O:ed_data_ini.Left">
+        <source>88</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_ini.Top" resname="O:frmLista_Vendas_Periodo.O:ed_data_ini.Top">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_ini.Width" resname="O:frmLista_Vendas_Periodo.O:ed_data_ini.Width">
+        <source>87</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_ini.Height" resname="O:frmLista_Vendas_Periodo.O:ed_data_ini.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_ini.NumGlyphs" resname="O:frmLista_Vendas_Periodo.O:ed_data_ini.NumGlyphs">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_ini.ShowNullDate" resname="O:frmLista_Vendas_Periodo.O:ed_data_ini.ShowNullDate">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_ini.TabOrder" resname="O:frmLista_Vendas_Periodo.O:ed_data_ini.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_ini.OnKeyPress" resname="O:frmLista_Vendas_Periodo.O:ed_data_ini.OnKeyPress">
+        <source>ed_data_iniKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_fim.Left" resname="O:frmLista_Vendas_Periodo.O:ed_data_fim.Left">
+        <source>216</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_fim.Top" resname="O:frmLista_Vendas_Periodo.O:ed_data_fim.Top">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_fim.Width" resname="O:frmLista_Vendas_Periodo.O:ed_data_fim.Width">
+        <source>89</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_fim.Height" resname="O:frmLista_Vendas_Periodo.O:ed_data_fim.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_fim.NumGlyphs" resname="O:frmLista_Vendas_Periodo.O:ed_data_fim.NumGlyphs">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_fim.ShowNullDate" resname="O:frmLista_Vendas_Periodo.O:ed_data_fim.ShowNullDate">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_fim.TabOrder" resname="O:frmLista_Vendas_Periodo.O:ed_data_fim.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:ed_data_fim.OnKeyPress" resname="O:frmLista_Vendas_Periodo.O:ed_data_fim.OnKeyPress">
+        <source>ed_data_iniKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TJvDateEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.Left" resname="O:frmLista_Vendas_Periodo.O:PageControl1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.Top" resname="O:frmLista_Vendas_Periodo.O:PageControl1.Top">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.Width" resname="O:frmLista_Vendas_Periodo.O:PageControl1.Width">
+        <source>747</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.Height">
+        <source>271</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.ActivePage" resname="O:frmLista_Vendas_Periodo.O:PageControl1.ActivePage">
+        <source>TabSintegra</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.Align" resname="O:frmLista_Vendas_Periodo.O:PageControl1.Align">
+        <source>alBottom</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.TabOrder" resname="O:frmLista_Vendas_Periodo.O:PageControl1.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534144</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.Caption" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.Caption">
+        <source>'Sintegra'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.ExplicitLeft" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.ExplicitTop" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.ExplicitWidth" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.ExplicitHeight" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Left" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Top" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Top">
+        <source>231</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Width" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Width">
+        <source>739</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Align" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Align">
+        <source>alBottom</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BackColor" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BackColor">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BackColorStop" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BackColorStop">
+        <source>clWindow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BarColor" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BarColor">
+        <source>12582847</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BarColorStop" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BarColorStop">
+        <source>59904</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BarStyle" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BarStyle">
+        <source>bsGradient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BorderOuter" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BorderOuter">
+        <source>fsFlat</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BorderWidth" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.BorderWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Charset" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Color" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Color">
+        <source>12582847</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Name" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Style" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534259</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.InteriorOffset" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.InteriorOffset">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.ParentFont" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.PartsComplete" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.PartsComplete">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Percent" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Percent">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.ShowPercent" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.ShowPercent">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.ThemeAware" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.ThemeAware">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.TotalParts" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.TotalParts">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Visible" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.ExplicitWidth" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:progressbar1.ExplicitWidth">
+        <source>439</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TRzProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Left" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Top" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Width" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Width">
+        <source>739</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Height">
+        <source>231</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Align" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Charset" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Color" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Name" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Name">
+        <source>'Lucida Console'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Style" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.ParentFont" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.ReadOnly" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534375</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.ScrollBars" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.ScrollBars">
+        <source>ssVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.TabOrder" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Zoom" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:rchSintegra.Zoom">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Left" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Left">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Top" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Top">
+        <source>172</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Width" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Width">
+        <source>425</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Height">
+        <source>49</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Caption" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Caption">
+        <source>'Layout'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.TabOrder" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Visible" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Left" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Top" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Width" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Width">
+        <source>209</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Caption" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Caption">
+        <source>'Sintegra - Convênio 57/95'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Checked" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.TabOrder" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.TabStop" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_sintegra.TabStop">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Left" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Left">
+        <source>192</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Top" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Width" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Width">
+        <source>217</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Caption" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.Caption">
+        <source>'EFD - Ato COTEPE/ICMS  09/08'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534491</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.TabOrder" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSintegra.O:GroupBox1.O:rb_efd.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.Caption" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.Caption">
+        <source>'SPED'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ImageIndex" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ImageIndex">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ExplicitLeft" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ExplicitTop" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ExplicitTop">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ExplicitWidth" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ExplicitWidth">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ExplicitHeight" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.ExplicitHeight">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Left" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Top" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Width" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Width">
+        <source>739</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Height">
+        <source>243</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Align" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Charset" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Color" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Height" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Name" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Name">
+        <source>'Lucida Console'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Style" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.ParentFont" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.ReadOnly" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.ScrollBars" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.ScrollBars">
+        <source>ssVertical</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.TabOrder" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Zoom" resname="O:frmLista_Vendas_Periodo.O:PageControl1.O:TabSPED.O:rchSped.Zoom">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TRichEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sintegra.Left" resname="O:frmLista_Vendas_Periodo.O:bt_sintegra.Left">
+        <source>312</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sintegra.Top" resname="O:frmLista_Vendas_Periodo.O:bt_sintegra.Top">
+        <source>35</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sintegra.Width" resname="O:frmLista_Vendas_Periodo.O:bt_sintegra.Width">
+        <source>120</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sintegra.Height" resname="O:frmLista_Vendas_Periodo.O:bt_sintegra.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534606</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sintegra.Caption" resname="O:frmLista_Vendas_Periodo.O:bt_sintegra.Caption">
+        <source>'Sintegra'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sintegra.TabOrder" resname="O:frmLista_Vendas_Periodo.O:bt_sintegra.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sintegra.Visible" resname="O:frmLista_Vendas_Periodo.O:bt_sintegra.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sintegra.OnClick" resname="O:frmLista_Vendas_Periodo.O:bt_sintegra.OnClick">
+        <source>bt_sintegraClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sped.Left" resname="O:frmLista_Vendas_Periodo.O:bt_sped.Left">
+        <source>312</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sped.Top" resname="O:frmLista_Vendas_Periodo.O:bt_sped.Top">
+        <source>59</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sped.Width" resname="O:frmLista_Vendas_Periodo.O:bt_sped.Width">
+        <source>120</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sped.Height" resname="O:frmLista_Vendas_Periodo.O:bt_sped.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sped.Caption" resname="O:frmLista_Vendas_Periodo.O:bt_sped.Caption">
+        <source>'Sped'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sped.TabOrder" resname="O:frmLista_Vendas_Periodo.O:bt_sped.TabOrder">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sped.Visible" resname="O:frmLista_Vendas_Periodo.O:bt_sped.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:bt_sped.OnClick" resname="O:frmLista_Vendas_Periodo.O:bt_sped.OnClick">
+        <source>bt_spedClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.Left" resname="O:frmLista_Vendas_Periodo.O:menu_sped.Left">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.Top" resname="O:frmLista_Vendas_Periodo.O:menu_sped.Top">
+        <source>57</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.Caption">
+        <source>'blocos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Abertura.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Abertura.Caption">
+        <source>'Bloco_0_Abertura'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Abertura.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Abertura.OnClick">
+        <source>Bloco_0_AberturaClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Reg_0190.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Reg_0190.Caption">
+        <source>'Bloco_0_Reg_0190'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Reg_0190.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Reg_0190.OnClick">
+        <source>Bloco_0_Reg_0190Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Reg_0200.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Reg_0200.Caption">
+        <source>'Bloco_0_Reg_0200'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Reg_0200.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Reg_0200.OnClick">
+        <source>Bloco_0_Reg_0200Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Fechamento.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Fechamento.Caption">
+        <source>'Bloco_0_Fechamento'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Fechamento.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_0_Fechamento.OnClick">
+        <source>Bloco_0_FechamentoClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:N2.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:N2.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Abertura.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Abertura.Caption">
+        <source>'Bloco_C_Abertura'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Abertura.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Abertura.OnClick">
+        <source>Bloco_C_AberturaClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Reg_C300.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Reg_C300.Caption">
+        <source>'Bloco_C_Reg_C300'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Reg_C300.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Reg_C300.OnClick">
+        <source>Bloco_C_Reg_C300Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Reg_C400.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Reg_C400.Caption">
+        <source>'Bloco_C_Reg_C400'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Reg_C400.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Reg_C400.OnClick">
+        <source>Bloco_C_Reg_C400Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Fechamento.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Fechamento.Caption">
+        <source>'Bloco_C_Fechamento'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Fechamento.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_C_Fechamento.OnClick">
+        <source>Bloco_C_FechamentoClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534722</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:N1.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:N1.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_D.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_D.Caption">
+        <source>'Bloco_D'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_D.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_D.OnClick">
+        <source>Bloco_DClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_E.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_E.Caption">
+        <source>'Bloco_E'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_E.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_E.OnClick">
+        <source>Bloco_EClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_H.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_H.Caption">
+        <source>'Bloco_H'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_H.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_H.OnClick">
+        <source>Bloco_HClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_1.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_1.Caption">
+        <source>'Bloco_1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_1.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_1.OnClick">
+        <source>Bloco_1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:N3.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:N3.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_9.Caption" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_9.Caption">
+        <source>'Bloco_9'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_9.OnClick" resname="O:frmLista_Vendas_Periodo.O:menu_sped.O:blocos1.O:Bloco_9.OnClick">
+        <source>Bloco_9Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:QrySIntegra.Connection" resname="O:frmLista_Vendas_Periodo.O:QrySIntegra.Connection">
+        <source>frmModulo.Conexao_Servidor</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:QrySIntegra.Left" resname="O:frmLista_Vendas_Periodo.O:QrySIntegra.Left">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:QrySIntegra.Top" resname="O:frmLista_Vendas_Periodo.O:QrySIntegra.Top">
+        <source>120</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:QrySintegra_D.Connection" resname="O:frmLista_Vendas_Periodo.O:QrySintegra_D.Connection">
+        <source>frmModulo.Conexao_Servidor</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:QrySintegra_D.Left" resname="O:frmLista_Vendas_Periodo.O:QrySintegra_D.Left">
+        <source>84</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:QrySintegra_D.Top" resname="O:frmLista_Vendas_Periodo.O:QrySintegra_D.Top">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrcupom_item.Left" resname="O:frmLista_Vendas_Periodo.O:qrcupom_item.Left">
+        <source>500</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrcupom_item.Top" resname="O:frmLista_Vendas_Periodo.O:qrcupom_item.Top">
+        <source>144</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrReducao.Connection" resname="O:frmLista_Vendas_Periodo.O:qrReducao.Connection">
+        <source>frmModulo.Conexao_Servidor</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrReducao.Left" resname="O:frmLista_Vendas_Periodo.O:qrReducao.Left">
+        <source>236</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrReducao.Top" resname="O:frmLista_Vendas_Periodo.O:qrReducao.Top">
+        <source>136</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">234</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrECF.Connection" resname="O:frmLista_Vendas_Periodo.O:qrECF.Connection">
+        <source>frmModulo.conexao</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">235</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrECF.Left" resname="O:frmLista_Vendas_Periodo.O:qrECF.Left">
+        <source>332</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">236</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrECF.Top" resname="O:frmLista_Vendas_Periodo.O:qrECF.Top">
+        <source>136</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">237</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrCupom.Left" resname="O:frmLista_Vendas_Periodo.O:qrCupom.Left">
+        <source>436</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">238</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrCupom.Top" resname="O:frmLista_Vendas_Periodo.O:qrCupom.Top">
+        <source>136</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">239</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrsaida_temp.Left" resname="O:frmLista_Vendas_Periodo.O:qrsaida_temp.Left">
+        <source>352</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">240</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrsaida_temp.Top" resname="O:frmLista_Vendas_Periodo.O:qrsaida_temp.Top">
+        <source>208</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">241</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:query.Left" resname="O:frmLista_Vendas_Periodo.O:query.Left">
+        <source>436</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">242</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:query.Top" resname="O:frmLista_Vendas_Periodo.O:query.Top">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">243</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrSaida.Left" resname="O:frmLista_Vendas_Periodo.O:qrSaida.Left">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">244</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrSaida.Top" resname="O:frmLista_Vendas_Periodo.O:qrSaida.Top">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">245</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:QrAdiciona_item.Left" resname="O:frmLista_Vendas_Periodo.O:QrAdiciona_item.Left">
+        <source>116</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">246</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:QrAdiciona_item.Top" resname="O:frmLista_Vendas_Periodo.O:QrAdiciona_item.Top">
+        <source>208</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">247</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qritem.Left" resname="O:frmLista_Vendas_Periodo.O:qritem.Left">
+        <source>204</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">248</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qritem.Top" resname="O:frmLista_Vendas_Periodo.O:qritem.Top">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">249</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrsaida_item.Left" resname="O:frmLista_Vendas_Periodo.O:qrsaida_item.Left">
+        <source>276</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534838</prop><prop prop-type="Status">0</prop><prop prop-type="Order">250</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:qrsaida_item.Top" resname="O:frmLista_Vendas_Periodo.O:qrsaida_item.Top">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">251</prop><prop prop-type="Type">TUniQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:DtsQrySintegra.DataSet" resname="O:frmLista_Vendas_Periodo.O:DtsQrySintegra.DataSet">
+        <source>QrySIntegra</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">252</prop><prop prop-type="Type">TUniDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:DtsQrySintegra.Left" resname="O:frmLista_Vendas_Periodo.O:DtsQrySintegra.Left">
+        <source>164</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">253</prop><prop prop-type="Type">TUniDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmLista_Vendas_Periodo.O:DtsQrySintegra.Top" resname="O:frmLista_Vendas_Periodo.O:DtsQrySintegra.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9618534954</prop><prop prop-type="Status">0</prop><prop prop-type="Order">254</prop><prop prop-type="Type">TUniDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,47 @@
+object frmConsumidor1: TfrmConsumidor1
+  Left = 0
+  Top = 0
+  Caption = 'frmConsumidor1'
+  ClientHeight = 648
+  ClientWidth = 976
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = True
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Shape2: TShape
+    Left = 32
+    Top = 230
+    Width = 249
+    Height = 24
+    Pen.Color = clSilver
+    Shape = stRoundRect
+  end
+  object ed_consumid_telefone: TRzEdit
+    Left = 35
+    Top = 223
+    Width = 242
+    Height = 21
+    Text = ''
+    CharCase = ecUpperCase
+    Color = clWhite
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    FrameStyle = fsNone
+    FrameVisible = True
+    FramingPreference = fpCustomFraming
+    ParentFont = False
+    TabOnEnter = True
+    TabOrder = 0
+    OnEnter = ed_consumid_cidadeEnter
+    OnExit = ed_consumid_cidadeExit
+    OnKeyPress = ed_consumid_enderecoKeyPress
+  end
+end

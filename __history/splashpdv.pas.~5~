@@ -1,0 +1,84 @@
+unit splashpdv;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, vcl.imaging.GIFImg, JvGIF, Vcl.ExtCtrls,
+  Data.DB, MemDS, DBAccess, Uni, UniProvider, InterBaseUniProvider,
+  NxColumnClasses, NxColumns, NxScrollControl, NxCustomGridControl,
+  NxCustomGrid, NxGrid;
+
+type
+  Tfrmsplashpdv = class(TForm)
+    conexao_servidor: TUniConnection;
+    conexao_pdv: TUniConnection;
+    InterBaseUniProvider1: TInterBaseUniProvider;
+    qrbanco: TUniQuery;
+    qrIBPT: TUniQuery;
+    qrIBPTCODIGO: TStringField;
+    qrIBPTEX: TStringField;
+    qrIBPTTABELA: TIntegerField;
+    qrIBPTALIQNAC: TFloatField;
+    qrIBPTALIQIMP: TFloatField;
+    qrIBPTNCM: TStringField;
+    qrConfServer: TUniQuery;
+    qrConfServerACRESCIMO_PRODUTO: TFloatField;
+    qrConfServerDESCONTO_PRODUTO: TFloatField;
+    qrMovCartao: TUniQuery;
+    qrPDV: TUniQuery;
+    qrServidor: TUniQuery;
+    qrServidor_Tabela: TUniQuery;
+    qrcaixa_mov: TUniQuery;
+    qrconfig: TUniQuery;
+    qrpdv2: TUniQuery;
+    qrCrediario: TUniQuery;
+    qrMestre: TUniQuery;
+    qrForma: TUniQuery;
+    qrpdv3: TUniQuery;
+    qrPDV_Tabela: TUniQuery;
+    procedure FormShow(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmsplashpdv: Tfrmsplashpdv;
+
+implementation
+
+{$R *.dfm}
+
+procedure Tfrmsplashpdv.FormShow(Sender: TObject);
+var
+  I, x, y, iprest: INTEGER;
+  scst: string;
+  bflag: boolean;
+  scod_cupom: string;
+  scod_venda: string;
+  bachou: boolean;
+
+  //situacao caixa
+
+  sit_caixa: string;
+
+(* Lista de Formas de Pagamento que exigem tratamento especial no fechamento da venda*)
+  lForma_pgto_Cheque_Avista, lForma_pgto_Cheque_Aprazo, lForma_pgto_Crediario,
+    lForma_pgto_Cartao_Credito, lForma_pgto_Cartao_Debito, lForma_pgto_dinheiro,
+    lForma_pgto_Convenio: String;
+
+  rpercentual: Real;
+
+  SCOD_REDUCAO: string;
+  MemoryStream : TMemoryStream;
+  Bitmap : TBitmap;
+  iparcela, itotal_parcela: Integer;
+  valorparcela, restante:Double;
+
+begin
+ 
+end;
+
+end.

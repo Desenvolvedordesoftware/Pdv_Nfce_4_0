@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Fontes\FNTS_Pdv_Nfce\msg_Operador.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Fontes\FNTS_Pdv_Nfce\msg_Operador.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43768.9620833333</prop>
+        <prop prop-type="OrigDateTime">43006.4404398148</prop>
+        <prop prop-type="XlatDateTime">43006.4404398148</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">86</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmMsg_Operador.Left" resname="O:frmMsg_Operador.Left">
+        <source>438</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.Top" resname="O:frmMsg_Operador.Top">
+        <source>447</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.BorderIcons" resname="O:frmMsg_Operador.BorderIcons">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.BorderStyle" resname="O:frmMsg_Operador.BorderStyle">
+        <source>bsNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.Caption" resname="O:frmMsg_Operador.Caption">
+        <source>'Mensagem ao Operador'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.ClientHeight" resname="O:frmMsg_Operador.ClientHeight">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.ClientWidth" resname="O:frmMsg_Operador.ClientWidth">
+        <source>368</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.Color" resname="O:frmMsg_Operador.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.Font.Charset" resname="O:frmMsg_Operador.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991551</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.Font.Color" resname="O:frmMsg_Operador.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.Font.Height" resname="O:frmMsg_Operador.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.Font.Name" resname="O:frmMsg_Operador.Font.Name">
+        <source>'MS Sans Serif'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.Font.Style" resname="O:frmMsg_Operador.Font.Style">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.OldCreateOrder" resname="O:frmMsg_Operador.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.Position" resname="O:frmMsg_Operador.Position">
+        <source>poDesktopCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.OnHide" resname="O:frmMsg_Operador.OnHide">
+        <source>FormHide</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.OnShow" resname="O:frmMsg_Operador.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.PixelsPerInch" resname="O:frmMsg_Operador.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.TextHeight" resname="O:frmMsg_Operador.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TfrmMsg_Operador</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.Left" resname="O:frmMsg_Operador.O:Panel1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.Top" resname="O:frmMsg_Operador.O:Panel1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.Width" resname="O:frmMsg_Operador.O:Panel1.Width">
+        <source>368</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.Height" resname="O:frmMsg_Operador.O:Panel1.Height">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.Align" resname="O:frmMsg_Operador.O:Panel1.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.BevelOuter" resname="O:frmMsg_Operador.O:Panel1.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.BorderWidth" resname="O:frmMsg_Operador.O:Panel1.BorderWidth">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.Color" resname="O:frmMsg_Operador.O:Panel1.Color">
+        <source>8404992</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.ParentBackground" resname="O:frmMsg_Operador.O:Panel1.ParentBackground">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.TabOrder" resname="O:frmMsg_Operador.O:Panel1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.ExplicitLeft" resname="O:frmMsg_Operador.O:Panel1.ExplicitLeft">
+        <source>56</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.ExplicitTop" resname="O:frmMsg_Operador.O:Panel1.ExplicitTop">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.ExplicitWidth" resname="O:frmMsg_Operador.O:Panel1.ExplicitWidth">
+        <source>353</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.ExplicitHeight" resname="O:frmMsg_Operador.O:Panel1.ExplicitHeight">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.Left" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.Left">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.Top" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.Top">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.Width" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.Width">
+        <source>364</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.Height" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.Height">
+        <source>98</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.Align" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.BevelOuter" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.BorderWidth" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.BorderWidth">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.Color" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.ParentBackground" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.ParentBackground">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.TabOrder" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.ExplicitLeft" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.ExplicitWidth" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.ExplicitWidth">
+        <source>349</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.ExplicitHeight" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.ExplicitHeight">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Left" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Left">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Top" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Top">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Width" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Width">
+        <source>360</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Height" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Height">
+        <source>94</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Align" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.BevelOuter" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.BorderWidth" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.BorderWidth">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Color" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.Color">
+        <source>8404992</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.ParentBackground" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.ParentBackground">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.TabOrder" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.ExplicitLeft" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.ExplicitLeft">
+        <source>66</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.ExplicitWidth" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.ExplicitWidth">
+        <source>349</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.ExplicitHeight" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.ExplicitHeight">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Left" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Left">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Top" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Top">
+        <source>22</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Width" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Width">
+        <source>51</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Height" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Height">
+        <source>51</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Center" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:Image2.Center">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Left" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Left">
+        <source>90</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Top" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Top">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Width" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Width">
+        <source>265</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Height" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Height">
+        <source>84</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Align" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Align">
+        <source>alRight</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Alignment" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Alignment">
+        <source>taCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.AutoSize" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Caption" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Caption">
+        <source>'Aguarde'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Color" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Charset" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Color" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Height" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Height">
+        <source>-15</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Name" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Style" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Font.Style">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ParentColor" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ParentColor">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ParentFont" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Transparent" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Layout" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.Layout">
+        <source>tlCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.WordWrap" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.WordWrap">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ExplicitLeft" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ExplicitLeft">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ExplicitTop" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ExplicitTop">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ExplicitHeight" resname="O:frmMsg_Operador.O:Panel1.O:Panel2.O:Panel3.O:lb_msg.ExplicitHeight">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9620991782</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

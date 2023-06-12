@@ -1,0 +1,157 @@
+object frmsplashpdv: Tfrmsplashpdv
+  Left = 0
+  Top = 0
+  Caption = 'frmsplashpdv'
+  ClientHeight = 519
+  ClientWidth = 865
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object conexao_servidor: TUniConnection
+    ProviderName = 'InterBase'
+    Port = 3050
+    Database = 'C:\GCSISTEM\Server\BD\base.fdb'
+    Username = 'sysdba'
+    Server = 'localhost'
+    LoginPrompt = False
+    Left = 37
+    Top = 43
+    EncryptedPassword = '92FF9EFF8CFF8BFF9AFF8DFF94FF9AFF86FF'
+  end
+  object conexao_pdv: TUniConnection
+    ProviderName = 'InterBase'
+    Port = 3050
+    Database = 'C:\GCSISTEM\PDV\BD\DATPDV.FDB'
+    Username = 'sysdba'
+    Server = 'localhost'
+    LoginPrompt = False
+    Left = 29
+    Top = 99
+    EncryptedPassword = '92FF9EFF8CFF8BFF9AFF8DFF94FF9AFF86FF'
+  end
+  object InterBaseUniProvider1: TInterBaseUniProvider
+    Left = 29
+    Top = 163
+  end
+  object qrbanco: TUniQuery
+    Connection = conexao_servidor
+    Left = 45
+    Top = 283
+  end
+  object qrIBPT: TUniQuery
+    Connection = conexao_servidor
+    SQL.Strings = (
+      'select * from IBPT_ALIQUOTAS ib where ib.NCM = :NCM')
+    Left = 101
+    Top = 299
+    ParamData = <
+      item
+        DataType = ftString
+        Name = 'NCM'
+        ParamType = ptInput
+        Value = nil
+      end>
+    object qrIBPTCODIGO: TStringField
+      FieldName = 'CODIGO'
+      Required = True
+      Size = 10
+    end
+    object qrIBPTEX: TStringField
+      FieldName = 'EX'
+      Size = 1
+    end
+    object qrIBPTTABELA: TIntegerField
+      FieldName = 'TABELA'
+    end
+    object qrIBPTALIQNAC: TFloatField
+      FieldName = 'ALIQNAC'
+    end
+    object qrIBPTALIQIMP: TFloatField
+      FieldName = 'ALIQIMP'
+    end
+    object qrIBPTNCM: TStringField
+      FieldName = 'NCM'
+      Size = 40
+    end
+  end
+  object qrConfServer: TUniQuery
+    Connection = conexao_servidor
+    SQL.Strings = (
+      'select ACRESCIMO_PRODUTO, DESCONTO_PRODUTO from C000001')
+    Left = 93
+    Top = 379
+    object qrConfServerACRESCIMO_PRODUTO: TFloatField
+      FieldName = 'ACRESCIMO_PRODUTO'
+    end
+    object qrConfServerDESCONTO_PRODUTO: TFloatField
+      FieldName = 'DESCONTO_PRODUTO'
+    end
+  end
+  object qrMovCartao: TUniQuery
+    Connection = conexao_servidor
+    Left = 45
+    Top = 355
+  end
+  object qrPDV: TUniQuery
+    Connection = conexao_pdv
+    Left = 205
+    Top = 371
+  end
+  object qrServidor: TUniQuery
+    Connection = conexao_servidor
+    Left = 277
+    Top = 371
+  end
+  object qrServidor_Tabela: TUniQuery
+    Connection = conexao_servidor
+    Left = 357
+    Top = 371
+  end
+  object qrcaixa_mov: TUniQuery
+    Connection = conexao_servidor
+    Left = 317
+    Top = 291
+  end
+  object qrconfig: TUniQuery
+    Connection = conexao_pdv
+    Left = 253
+    Top = 291
+  end
+  object qrpdv2: TUniQuery
+    Connection = conexao_pdv
+    Left = 285
+    Top = 203
+  end
+  object qrCrediario: TUniQuery
+    Connection = conexao_servidor
+    Left = 365
+    Top = 203
+  end
+  object qrMestre: TUniQuery
+    Connection = conexao_servidor
+    Left = 469
+    Top = 203
+  end
+  object qrForma: TUniQuery
+    Connection = conexao_pdv
+    Left = 461
+    Top = 291
+  end
+  object qrpdv3: TUniQuery
+    Connection = conexao_pdv
+    Left = 381
+    Top = 291
+  end
+  object qrPDV_Tabela: TUniQuery
+    Connection = conexao_pdv
+    Left = 541
+    Top = 291
+  end
+end

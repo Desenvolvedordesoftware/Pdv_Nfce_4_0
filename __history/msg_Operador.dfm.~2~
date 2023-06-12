@@ -1,0 +1,97 @@
+object frmMsg_Operador: TfrmMsg_Operador
+  Left = 438
+  Top = 447
+  Align = alClient
+  BorderIcons = []
+  BorderStyle = bsNone
+  Caption = 'Mensagem ao Operador'
+  ClientHeight = 692
+  ClientWidth = 1520
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = [fsBold]
+  OldCreateOrder = False
+  Position = poDesigned
+  WindowState = wsMaximized
+  OnHide = FormHide
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 1520
+    Height = 692
+    Align = alClient
+    BevelOuter = bvNone
+    BorderWidth = 2
+    Color = 8404992
+    ParentBackground = False
+    TabOrder = 0
+    ExplicitWidth = 368
+    ExplicitHeight = 102
+    object Panel2: TPanel
+      Left = 2
+      Top = 2
+      Width = 1516
+      Height = 688
+      Align = alClient
+      BevelOuter = bvNone
+      BorderWidth = 2
+      Color = clWhite
+      ParentBackground = False
+      TabOrder = 0
+      ExplicitWidth = 364
+      ExplicitHeight = 98
+      object Panel3: TPanel
+        Left = 2
+        Top = 2
+        Width = 1512
+        Height = 684
+        Align = alClient
+        BevelOuter = bvNone
+        BorderWidth = 5
+        Color = 8404992
+        ParentBackground = False
+        TabOrder = 0
+        ExplicitWidth = 360
+        ExplicitHeight = 94
+        object Image2: TImage
+          Left = 19
+          Top = 22
+          Width = 51
+          Height = 51
+          Center = True
+        end
+        object lb_msg: TLabel
+          Left = 5
+          Top = 5
+          Width = 1502
+          Height = 674
+          Align = alClient
+          Alignment = taCenter
+          AutoSize = False
+          Caption = 'Aguarde'
+          Color = clBtnFace
+          Font.Charset = DEFAULT_CHARSET
+          Font.Color = clWhite
+          Font.Height = -27
+          Font.Name = 'Tahoma'
+          Font.Style = [fsBold]
+          ParentColor = False
+          ParentFont = False
+          Transparent = True
+          Layout = tlCenter
+          WordWrap = True
+          ExplicitLeft = 96
+          ExplicitTop = 3
+          ExplicitWidth = 265
+          ExplicitHeight = 81
+        end
+      end
+    end
+  end
+end

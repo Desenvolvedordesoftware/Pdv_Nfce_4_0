@@ -1,0 +1,26 @@
+unit cliente;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, consumidor, Vcl.Menus, AdvMenus,
+  Vcl.StdCtrls, Vcl.Mask, RzEdit, AdvGlowButton, Vcl.ExtCtrls, RzLabel,
+  TFlatPanelUnit;
+
+type
+  TfrmConsumidor1 = class(TfrmConsumidor)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmConsumidor1: TfrmConsumidor1;
+
+implementation
+
+{$R *.dfm}
+
+end.

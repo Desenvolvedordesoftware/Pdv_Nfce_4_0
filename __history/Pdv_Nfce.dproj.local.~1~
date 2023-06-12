@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/19 00:39:06.000.256,=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2017/05/19 00:39:12.000.319,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\teste.pas</Transaction>
+    <Transaction>2017/05/19 00:39:12.000.319,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\teste.dfm</Transaction>
+    <Transaction>2017/07/04 10:35:28.000.115,=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2017/07/04 10:36:01.000.365,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\MensagemAdicional.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.dfm</Transaction>
+    <Transaction>2017/07/04 10:36:01.000.365,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\MensagemAdicional.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 22:00:40.000.715,=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 22:03:22.000.368,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Unit1.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\uBandeira.pas</Transaction>
+    <Transaction>2017/11/05 22:03:22.000.368,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\uBandeira.dfm</Transaction>
+    <Transaction>2017/11/05 22:13:01.000.579,=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 22:13:12.000.907,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Unit1.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Parcelas.pas</Transaction>
+    <Transaction>2017/11/05 22:13:12.000.907,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Parcelas.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

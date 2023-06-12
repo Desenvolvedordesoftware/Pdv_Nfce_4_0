@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Fontes\FNTS_Pdv_Nfce\protetor_tela.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Fontes\FNTS_Pdv_Nfce\protetor_tela.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43768.9635185185</prop>
+        <prop prop-type="OrigDateTime">43689.5527083333</prop>
+        <prop prop-type="XlatDateTime">43689.5527083333</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">53</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:frmProtetor_tela.Left" resname="O:frmProtetor_tela.Left">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.Top" resname="O:frmProtetor_tela.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.BorderStyle" resname="O:frmProtetor_tela.BorderStyle">
+        <source>bsNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.Caption" resname="O:frmProtetor_tela.Caption">
+        <source>'frmProtetor_tela'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.ClientHeight" resname="O:frmProtetor_tela.ClientHeight">
+        <source>768</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.ClientWidth" resname="O:frmProtetor_tela.ClientWidth">
+        <source>1079</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.Color" resname="O:frmProtetor_tela.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.Font.Charset" resname="O:frmProtetor_tela.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.Font.Color" resname="O:frmProtetor_tela.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.Font.Height" resname="O:frmProtetor_tela.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.Font.Name" resname="O:frmProtetor_tela.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.Font.Style" resname="O:frmProtetor_tela.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.OldCreateOrder" resname="O:frmProtetor_tela.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.WindowState" resname="O:frmProtetor_tela.WindowState">
+        <source>wsMaximized</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.OnCreate" resname="O:frmProtetor_tela.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.OnKeyPress" resname="O:frmProtetor_tela.OnKeyPress">
+        <source>FormKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.PixelsPerInch" resname="O:frmProtetor_tela.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.TextHeight" resname="O:frmProtetor_tela.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrmProtetor_tela</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Left" resname="O:frmProtetor_tela.O:Panel1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Top" resname="O:frmProtetor_tela.O:Panel1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Width" resname="O:frmProtetor_tela.O:Panel1.Width">
+        <source>1079</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Height" resname="O:frmProtetor_tela.O:Panel1.Height">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Align" resname="O:frmProtetor_tela.O:Panel1.Align">
+        <source>alTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.BevelOuter" resname="O:frmProtetor_tela.O:Panel1.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Caption" resname="O:frmProtetor_tela.O:Panel1.Caption">
+        <source>'Produto'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Color" resname="O:frmProtetor_tela.O:Panel1.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Font.Charset" resname="O:frmProtetor_tela.O:Panel1.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Font.Color" resname="O:frmProtetor_tela.O:Panel1.Font.Color">
+        <source>clYellow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Font.Height" resname="O:frmProtetor_tela.O:Panel1.Font.Height">
+        <source>-96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Font.Name" resname="O:frmProtetor_tela.O:Panel1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.Font.Style" resname="O:frmProtetor_tela.O:Panel1.Font.Style">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.ParentBackground" resname="O:frmProtetor_tela.O:Panel1.ParentBackground">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.ParentFont" resname="O:frmProtetor_tela.O:Panel1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel1.TabOrder" resname="O:frmProtetor_tela.O:Panel1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Left" resname="O:frmProtetor_tela.O:Panel2.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Top" resname="O:frmProtetor_tela.O:Panel2.Top">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Width" resname="O:frmProtetor_tela.O:Panel2.Width">
+        <source>1079</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Height" resname="O:frmProtetor_tela.O:Panel2.Height">
+        <source>144</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Align" resname="O:frmProtetor_tela.O:Panel2.Align">
+        <source>alTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.BevelOuter" resname="O:frmProtetor_tela.O:Panel2.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Caption" resname="O:frmProtetor_tela.O:Panel2.Caption">
+        <source>'não encontrado!!!'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Color" resname="O:frmProtetor_tela.O:Panel2.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635297917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Font.Charset" resname="O:frmProtetor_tela.O:Panel2.Font.Charset">
+        <source>ANSI_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Font.Color" resname="O:frmProtetor_tela.O:Panel2.Font.Color">
+        <source>clYellow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Font.Height" resname="O:frmProtetor_tela.O:Panel2.Font.Height">
+        <source>-96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Font.Name" resname="O:frmProtetor_tela.O:Panel2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.Font.Style" resname="O:frmProtetor_tela.O:Panel2.Font.Style">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.ParentBackground" resname="O:frmProtetor_tela.O:Panel2.ParentBackground">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.ParentFont" resname="O:frmProtetor_tela.O:Panel2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Panel2.TabOrder" resname="O:frmProtetor_tela.O:Panel2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Timer1.Interval" resname="O:frmProtetor_tela.O:Timer1.Interval">
+        <source>5000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Timer1.Left" resname="O:frmProtetor_tela.O:Timer1.Left">
+        <source>400</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:frmProtetor_tela.O:Timer1.Top" resname="O:frmProtetor_tela.O:Timer1.Top">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43768.9635298032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TTimer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

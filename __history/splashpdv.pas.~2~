@@ -1,0 +1,31 @@
+unit splashpdv;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, vcl.imaging.GIFImg, JvGIF, Vcl.ExtCtrls;
+
+type
+  Tfrmsplashpdv = class(TForm)
+    Image1: TImage;
+    procedure FormShow(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmsplashpdv: Tfrmsplashpdv;
+
+implementation
+
+{$R *.dfm}
+
+procedure Tfrmsplashpdv.FormShow(Sender: TObject);
+begin
+ (image1.Picture.Graphic as TGIFImage).Animate := true;
+end;
+
+end.
